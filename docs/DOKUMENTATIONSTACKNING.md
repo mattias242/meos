@@ -168,28 +168,28 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5503 | [Kval och final – knockout sprint](https://melin.nu/meos/sv/show.php?base=5400&id=5503) | `features/10-kval-och-final-knockout-sprint/kval-och-final-knockout-sprint.feature` |
-| [~] | 5504 | &nbsp;&nbsp;[Redigera kval/final-scheman](https://melin.nu/meos/sv/show.php?base=5400&id=5504) | `10-kval-och-final-knockout-sprint/redigera-kval-final-scheman.feature` |
-| [ ] | 5505 | &nbsp;&nbsp;[Exempelscheman](https://melin.nu/meos/sv/show.php?base=5400&id=5505) | `features/10-kval-och-final-knockout-sprint/exempelscheman.feature` |
+| [x] | 5503 | [Kval och final – knockout sprint](https://melin.nu/meos/sv/show.php?base=5400&id=5503) | `features/10-kval-och-final-knockout-sprint/kval-och-final-knockout-sprint.feature` |
+| [x] | 5504 | &nbsp;&nbsp;[Redigera kval/final-scheman](https://melin.nu/meos/sv/show.php?base=5400&id=5504) | `10-kval-och-final-knockout-sprint/redigera-kval-final-scheman.feature` |
+| [x] | 5505 | &nbsp;&nbsp;[Exempelscheman](https://melin.nu/meos/sv/show.php?base=5400&id=5505) | `features/10-kval-och-final-knockout-sprint/exempelscheman.feature` |
 
 ## Rogaining
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [~] | 5482 | [Rogaining](https://melin.nu/meos/sv/show.php?base=5400&id=5482) | `11-rogaining/rogaining-funktioner.feature` |
-| [ ] | 5483 | &nbsp;&nbsp;[Rogaining i lag](https://melin.nu/meos/sv/show.php?base=5400&id=5483) | `features/11-rogaining/rogaining-i-lag.feature` |
+| [x] | 5482 | [Rogaining](https://melin.nu/meos/sv/show.php?base=5400&id=5482) | `11-rogaining/rogaining-funktioner.feature` |
+| [x] | 5483 | &nbsp;&nbsp;[Rogaining i lag](https://melin.nu/meos/sv/show.php?base=5400&id=5483) | `features/11-rogaining/rogaining-i-lag.feature` |
 
 ## Redigera listor
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5489 | [Redigera listor](https://melin.nu/meos/sv/show.php?base=5400&id=5489) | `features/12-redigera-listor/redigera-listor.feature` |
-| [ ] | 5490 | &nbsp;&nbsp;[Grundprinciper](https://melin.nu/meos/sv/show.php?base=5400&id=5490) | `features/12-redigera-listor/grundprinciper.feature` |
-| [ ] | 5491 | &nbsp;&nbsp;[Egenskaper för listan](https://melin.nu/meos/sv/show.php?base=5400&id=5491) | `features/12-redigera-listor/egenskaper-for-listan.feature` |
-| [ ] | 5492 | &nbsp;&nbsp;[Listposter](https://melin.nu/meos/sv/show.php?base=5400&id=5492) | `features/12-redigera-listor/listposter.feature` |
-| [ ] | 5493 | &nbsp;&nbsp;[Data från resultatmoduler](https://melin.nu/meos/sv/show.php?base=5400&id=5493) | `features/12-redigera-listor/data-fran-resultatmoduler.feature` |
-| [ ] | 5494 | &nbsp;&nbsp;[Bilder](https://melin.nu/meos/sv/show.php?base=5400&id=5494) | `features/12-redigera-listor/bilder.feature` |
-| [ ] | 5495 | &nbsp;&nbsp;[Listor för sträcktidsutskrift](https://melin.nu/meos/sv/show.php?base=5400&id=5495) | `features/12-redigera-listor/listor-for-stracktidsutskrift.feature` |
+| [x] | 5489 | [Redigera listor](https://melin.nu/meos/sv/show.php?base=5400&id=5489) | `features/12-redigera-listor/redigera-listor.feature` |
+| [x] | 5490 | &nbsp;&nbsp;[Grundprinciper](https://melin.nu/meos/sv/show.php?base=5400&id=5490) | `features/12-redigera-listor/grundprinciper.feature` |
+| [x] | 5491 | &nbsp;&nbsp;[Egenskaper för listan](https://melin.nu/meos/sv/show.php?base=5400&id=5491) | `features/12-redigera-listor/egenskaper-for-listan.feature` |
+| [x] | 5492 | &nbsp;&nbsp;[Listposter](https://melin.nu/meos/sv/show.php?base=5400&id=5492) | `features/12-redigera-listor/listposter.feature` |
+| [x] | 5493 | &nbsp;&nbsp;[Data från resultatmoduler](https://melin.nu/meos/sv/show.php?base=5400&id=5493) | `features/12-redigera-listor/data-fran-resultatmoduler.feature` |
+| [x] | 5494 | &nbsp;&nbsp;[Bilder](https://melin.nu/meos/sv/show.php?base=5400&id=5494) | `features/12-redigera-listor/bilder.feature` |
+| [x] | 5495 | &nbsp;&nbsp;[Listor för sträcktidsutskrift](https://melin.nu/meos/sv/show.php?base=5400&id=5495) | `features/12-redigera-listor/listor-for-stracktidsutskrift.feature` |
 
 ## Resultatmoduler
 
