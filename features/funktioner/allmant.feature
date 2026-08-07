@@ -3,7 +3,7 @@ Egenskap: Allmänna funktioner
   Grundfunktioner som de flesta tävlingar använder:
   startlottning, nummerlappar, klubbar, kvar-i-skogen och nätverk.
 
-  Regel: Lotta startlistor (SL) — förbered och lotta startlistor
+  Regel: Förbereda startlistor (SL) — lottning och relaterade funktioner
 
     Scenario: Lottning ger alla anmälda en starttid
       Givet en klass med anmälda löpare och ett startdjup med intervall
@@ -31,7 +31,7 @@ Egenskap: Allmänna funktioner
       När klubbarna slås ihop
       Så pekar alla berörda löpare på den kvarvarande klubben
 
-  Regel: Kvar-i-skogen (RF) — spåra löpare i skogen
+  Regel: Beräkna kvar-i-skogen (RF) — vilka löpare har inte gått i mål
 
     Scenario: Ej avläst löpare räknas som kvar i skogen
       Givet en startad löpare vars bricka inte lästs av
@@ -43,7 +43,7 @@ Egenskap: Allmänna funktioner
       När löparens bricka läses av
       Så finns löparen inte längre i listan
 
-  Regel: Nätverk (NW) — flera MeOS-klienter mot samma tävling
+  Regel: Flera MeOS-klienter i nätverk (NW) — gemensam databas
 
     Scenario: Ändring på en klient syns på övriga
       Givet två MeOS-klienter anslutna till samma tävling
