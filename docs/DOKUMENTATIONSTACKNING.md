@@ -23,7 +23,7 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5506 | [Allmänna råd och tips](https://melin.nu/meos/sv/show.php?base=5400&id=5506) | `features/01-allmanna-rad-och-tips/allmanna-rad-och-tips.feature` |
+| [x] | 5506 | [Allmänna råd och tips](https://melin.nu/meos/sv/show.php?base=5400&id=5506) | `features/01-allmanna-rad-och-tips/allmanna-rad-och-tips.feature` |
 
 ## Mindre arrangemang
 
@@ -63,20 +63,20 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5508 | [Tävlingsfunktioner](https://melin.nu/meos/sv/show.php?base=5400&id=5508) | `features/04-tavlingsfunktioner/tavlingsfunktioner.feature` |
-| [ ] | 5519 | &nbsp;&nbsp;[Boka starttid](https://melin.nu/meos/sv/show.php?base=5400&id=5519) | `features/04-tavlingsfunktioner/boka-starttid.feature` |
-| [ ] | 5518 | &nbsp;&nbsp;[Starta klass på signal](https://melin.nu/meos/sv/show.php?base=5400&id=5518) | `features/04-tavlingsfunktioner/starta-klass-pa-signal.feature` |
-| [ ] | 5509 | &nbsp;&nbsp;[Vakanser, klassbyte och återbud](https://melin.nu/meos/sv/show.php?base=5400&id=5509) | `features/04-tavlingsfunktioner/vakanser-klassbyte-och-aterbud.feature` |
-| [ ] | 5510 | &nbsp;&nbsp;[Oparade brickor](https://melin.nu/meos/sv/show.php?base=5400&id=5510) | `features/04-tavlingsfunktioner/oparade-brickor.feature` |
-| [ ] | 5513 | &nbsp;&nbsp;[Knyta brickor till deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5513) | `features/04-tavlingsfunktioner/knyta-brickor-till-deltagare.feature` |
-| [ ] | 5511 | &nbsp;&nbsp;[Kontroller](https://melin.nu/meos/sv/show.php?base=5400&id=5511) | `features/04-tavlingsfunktioner/kontroller.feature` |
-| [ ] | 5512 | &nbsp;&nbsp;&nbsp;&nbsp;[Tabelläge och statistik](https://melin.nu/meos/sv/show.php?base=5400&id=5512) | `features/04-tavlingsfunktioner/tabellage-och-statistik.feature` |
-| [ ] | 5514 | &nbsp;&nbsp;[Avkortade banor](https://melin.nu/meos/sv/show.php?base=5400&id=5514) | `features/04-tavlingsfunktioner/avkortade-banor.feature` |
-| [ ] | 5517 | &nbsp;&nbsp;[Tidtagning med tiondelar](https://melin.nu/meos/sv/show.php?base=5400&id=5517) | `features/04-tavlingsfunktioner/tidtagning-med-tiondelar.feature` |
-| [ ] | 5515 | &nbsp;&nbsp;[Långa tävlingstider](https://melin.nu/meos/sv/show.php?base=5400&id=5515) | `features/04-tavlingsfunktioner/langa-tavlingstider.feature` |
-| [ ] | 5516 | &nbsp;&nbsp;[Tidsjustering av start och mål](https://melin.nu/meos/sv/show.php?base=5400&id=5516) | `features/04-tavlingsfunktioner/tidsjustering-av-start-och-mal.feature` |
-| [ ] | 5520 | &nbsp;&nbsp;[Kartor](https://melin.nu/meos/sv/show.php?base=5400&id=5520) | `features/04-tavlingsfunktioner/kartor.feature` |
-| [ ] | 5521 | &nbsp;&nbsp;&nbsp;&nbsp;[Lokalisera kartan](https://melin.nu/meos/sv/show.php?base=5400&id=5521) | `features/04-tavlingsfunktioner/lokalisera-kartan.feature` |
+| [x] | 5508 | [Tävlingsfunktioner](https://melin.nu/meos/sv/show.php?base=5400&id=5508) | `features/04-tavlingsfunktioner/tavlingsfunktioner.feature` |
+| [x] | 5519 | &nbsp;&nbsp;[Boka starttid](https://melin.nu/meos/sv/show.php?base=5400&id=5519) | `features/04-tavlingsfunktioner/boka-starttid.feature` |
+| [x] | 5518 | &nbsp;&nbsp;[Starta klass på signal](https://melin.nu/meos/sv/show.php?base=5400&id=5518) | `features/04-tavlingsfunktioner/starta-klass-pa-signal.feature` |
+| [x] | 5509 | &nbsp;&nbsp;[Vakanser, klassbyte och återbud](https://melin.nu/meos/sv/show.php?base=5400&id=5509) | `features/04-tavlingsfunktioner/vakanser-klassbyte-och-aterbud.feature` |
+| [x] | 5510 | &nbsp;&nbsp;[Oparade brickor](https://melin.nu/meos/sv/show.php?base=5400&id=5510) | `features/04-tavlingsfunktioner/oparade-brickor.feature` |
+| [x] | 5513 | &nbsp;&nbsp;[Knyta brickor till deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5513) | `features/04-tavlingsfunktioner/knyta-brickor-till-deltagare.feature` |
+| [x] | 5511 | &nbsp;&nbsp;[Kontroller](https://melin.nu/meos/sv/show.php?base=5400&id=5511) | `features/04-tavlingsfunktioner/kontroller.feature` |
+| [x] | 5512 | &nbsp;&nbsp;&nbsp;&nbsp;[Tabelläge och statistik](https://melin.nu/meos/sv/show.php?base=5400&id=5512) | `features/04-tavlingsfunktioner/tabellage-och-statistik.feature` |
+| [x] | 5514 | &nbsp;&nbsp;[Avkortade banor](https://melin.nu/meos/sv/show.php?base=5400&id=5514) | `features/04-tavlingsfunktioner/avkortade-banor.feature` |
+| [x] | 5517 | &nbsp;&nbsp;[Tidtagning med tiondelar](https://melin.nu/meos/sv/show.php?base=5400&id=5517) | `features/04-tavlingsfunktioner/tidtagning-med-tiondelar.feature` |
+| [x] | 5515 | &nbsp;&nbsp;[Långa tävlingstider](https://melin.nu/meos/sv/show.php?base=5400&id=5515) | `features/04-tavlingsfunktioner/langa-tavlingstider.feature` |
+| [x] | 5516 | &nbsp;&nbsp;[Tidsjustering av start och mål](https://melin.nu/meos/sv/show.php?base=5400&id=5516) | `features/04-tavlingsfunktioner/tidsjustering-av-start-och-mal.feature` |
+| [x] | 5520 | &nbsp;&nbsp;[Kartor](https://melin.nu/meos/sv/show.php?base=5400&id=5520) | `features/04-tavlingsfunktioner/kartor.feature` |
+| [x] | 5521 | &nbsp;&nbsp;&nbsp;&nbsp;[Lokalisera kartan](https://melin.nu/meos/sv/show.php?base=5400&id=5521) | `features/04-tavlingsfunktioner/lokalisera-kartan.feature` |
 
 ## Hantera meos
 
