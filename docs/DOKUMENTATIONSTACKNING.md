@@ -11,6 +11,13 @@ Testmålbilden som bygger vidare på scenarierna: [TEST_TODO.md](TEST_TODO.md).
 Status: `[ ]` ej påbörjad · `[~]` delvis · `[x]` klar ·
 `[-]` ingen beteendespecifikation (installation, miljö eller rena råd).
 
+Utöver sidorna nedan finns korsgående feature-filer som inte hör till en enskild
+dokumentationssida utan beskriver kärnlogik härledd ur koden:
+
+| Feature-fil | Innehåll |
+|---|---|
+| `features/02-mindre-arrangemang/resultatberakning-och-placering.feature` | Resultatberäkning, delade tider, statusordning |
+
 
 ## Allmanna rad och tips
 
@@ -22,29 +29,29 @@ Status: `[ ]` ej påbörjad · `[~]` delvis · `[x]` klar ·
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5401 | [Mindre arrangemang](https://melin.nu/meos/sv/show.php?base=5400&id=5401) | `features/02-mindre-arrangemang/mindre-arrangemang.feature` |
-| [ ] | 5422 | &nbsp;&nbsp;[Skapa en ny tävling](https://melin.nu/meos/sv/show.php?base=5400&id=5422) | `features/02-mindre-arrangemang/skapa-en-ny-tavling.feature` |
-| [ ] | 5402 | &nbsp;&nbsp;[Förberedelsearbete](https://melin.nu/meos/sv/show.php?base=5400&id=5402) | `features/02-mindre-arrangemang/forberedelsearbete.feature` |
-| [ ] | 5403 | &nbsp;&nbsp;&nbsp;&nbsp;[Anmäla deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5403) | `features/02-mindre-arrangemang/anmala-deltagare.feature` |
-| [ ] | 5404 | &nbsp;&nbsp;&nbsp;&nbsp;[Skapa klasser](https://melin.nu/meos/sv/show.php?base=5400&id=5404) | `features/02-mindre-arrangemang/skapa-klasser.feature` |
-| [ ] | 5405 | &nbsp;&nbsp;&nbsp;&nbsp;[Definiera banor](https://melin.nu/meos/sv/show.php?base=5400&id=5405) | `features/02-mindre-arrangemang/definiera-banor.feature` |
-| [ ] | 5408 | &nbsp;&nbsp;&nbsp;&nbsp;[Slingor med varvningskontroll](https://melin.nu/meos/sv/show.php?base=5400&id=5408) | `features/02-mindre-arrangemang/slingor-med-varvningskontroll.feature` |
-| [ ] | 5406 | &nbsp;&nbsp;&nbsp;&nbsp;[Lottning](https://melin.nu/meos/sv/show.php?base=5400&id=5406) | `features/02-mindre-arrangemang/lottning.feature` |
-| [ ] | 5409 | &nbsp;&nbsp;&nbsp;&nbsp;[Lotta samma bana gemensamt](https://melin.nu/meos/sv/show.php?base=5400&id=5409) | `features/02-mindre-arrangemang/lotta-samma-bana-gemensamt.feature` |
-| [ ] | 5407 | &nbsp;&nbsp;&nbsp;&nbsp;[Hyrbrickor och återanvändning av brickor](https://melin.nu/meos/sv/show.php?base=5400&id=5407) | `features/02-mindre-arrangemang/hyrbrickor-och-ateranvandning-av-brickor.feature` |
-| [ ] | 5410 | &nbsp;&nbsp;[Genomföra arrangemanget](https://melin.nu/meos/sv/show.php?base=5400&id=5410) | `features/02-mindre-arrangemang/genomfora-arrangemanget.feature` |
-| [~] | 5411 | &nbsp;&nbsp;&nbsp;&nbsp;[Brickavläsning](https://melin.nu/meos/sv/show.php?base=5400&id=5411) | `02-mindre-arrangemang/brickavlasning.feature` |
-| [ ] | 5419 | &nbsp;&nbsp;&nbsp;&nbsp;[Manuell tidtagning](https://melin.nu/meos/sv/show.php?base=5400&id=5419) | `features/02-mindre-arrangemang/manuell-tidtagning.feature` |
-| [ ] | 5412 | &nbsp;&nbsp;&nbsp;&nbsp;[Godkänna och diskvalificera deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5412) | `features/02-mindre-arrangemang/godkanna-och-diskvalificera-deltagare.feature` |
-| [ ] | 5413 | &nbsp;&nbsp;&nbsp;&nbsp;[Redigera stämplingar](https://melin.nu/meos/sv/show.php?base=5400&id=5413) | `features/02-mindre-arrangemang/redigera-stamplingar.feature` |
-| [ ] | 5414 | &nbsp;&nbsp;&nbsp;&nbsp;[Sträcktidsutskrifter](https://melin.nu/meos/sv/show.php?base=5400&id=5414) | `features/02-mindre-arrangemang/stracktidsutskrifter.feature` |
-| [~] | 5415 | &nbsp;&nbsp;&nbsp;&nbsp;[Start- och resultatlistor](https://melin.nu/meos/sv/show.php?base=5400&id=5415) | `02-mindre-arrangemang/resultatberakning-och-placering.feature` |
-| [ ] | 5416 | &nbsp;&nbsp;&nbsp;&nbsp;[Export av resultat och sträcktider](https://melin.nu/meos/sv/show.php?base=5400&id=5416) | `features/02-mindre-arrangemang/export-av-resultat-och-stracktider.feature` |
-| [ ] | 5417 | &nbsp;&nbsp;&nbsp;&nbsp;[Kvar-i-skogen](https://melin.nu/meos/sv/show.php?base=5400&id=5417) | `features/02-mindre-arrangemang/kvar-i-skogen.feature` |
-| [ ] | 5420 | &nbsp;&nbsp;&nbsp;&nbsp;[Flera lopp eller varv per deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5420) | `features/02-mindre-arrangemang/flera-lopp-eller-varv-per-deltagare.feature` |
-| [ ] | 5418 | &nbsp;&nbsp;&nbsp;&nbsp;[Individuell resultatrapport och resultatkiosker](https://melin.nu/meos/sv/show.php?base=5400&id=5418) | `features/02-mindre-arrangemang/individuell-resultatrapport-och-resultatkiosker.feature` |
-| [ ] | 5421 | &nbsp;&nbsp;[Sträcktidsutskrift utan tävling](https://melin.nu/meos/sv/show.php?base=5400&id=5421) | `features/02-mindre-arrangemang/stracktidsutskrift-utan-tavling.feature` |
-| [ ] | 5423 | &nbsp;&nbsp;[Importera resultat](https://melin.nu/meos/sv/show.php?base=5400&id=5423) | `features/02-mindre-arrangemang/importera-resultat.feature` |
+| [x] | 5401 | [Mindre arrangemang](https://melin.nu/meos/sv/show.php?base=5400&id=5401) | `features/02-mindre-arrangemang/mindre-arrangemang.feature` |
+| [x] | 5422 | &nbsp;&nbsp;[Skapa en ny tävling](https://melin.nu/meos/sv/show.php?base=5400&id=5422) | `features/02-mindre-arrangemang/skapa-en-ny-tavling.feature` |
+| [x] | 5402 | &nbsp;&nbsp;[Förberedelsearbete](https://melin.nu/meos/sv/show.php?base=5400&id=5402) | `features/02-mindre-arrangemang/forberedelsearbete.feature` |
+| [x] | 5403 | &nbsp;&nbsp;&nbsp;&nbsp;[Anmäla deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5403) | `features/02-mindre-arrangemang/anmala-deltagare.feature` |
+| [x] | 5404 | &nbsp;&nbsp;&nbsp;&nbsp;[Skapa klasser](https://melin.nu/meos/sv/show.php?base=5400&id=5404) | `features/02-mindre-arrangemang/skapa-klasser.feature` |
+| [x] | 5405 | &nbsp;&nbsp;&nbsp;&nbsp;[Definiera banor](https://melin.nu/meos/sv/show.php?base=5400&id=5405) | `features/02-mindre-arrangemang/definiera-banor.feature` |
+| [x] | 5408 | &nbsp;&nbsp;&nbsp;&nbsp;[Slingor med varvningskontroll](https://melin.nu/meos/sv/show.php?base=5400&id=5408) | `features/02-mindre-arrangemang/slingor-med-varvningskontroll.feature` |
+| [x] | 5406 | &nbsp;&nbsp;&nbsp;&nbsp;[Lottning](https://melin.nu/meos/sv/show.php?base=5400&id=5406) | `features/02-mindre-arrangemang/lottning.feature` |
+| [x] | 5409 | &nbsp;&nbsp;&nbsp;&nbsp;[Lotta samma bana gemensamt](https://melin.nu/meos/sv/show.php?base=5400&id=5409) | `features/02-mindre-arrangemang/lotta-samma-bana-gemensamt.feature` |
+| [x] | 5407 | &nbsp;&nbsp;&nbsp;&nbsp;[Hyrbrickor och återanvändning av brickor](https://melin.nu/meos/sv/show.php?base=5400&id=5407) | `features/02-mindre-arrangemang/hyrbrickor-och-ateranvandning-av-brickor.feature` |
+| [x] | 5410 | &nbsp;&nbsp;[Genomföra arrangemanget](https://melin.nu/meos/sv/show.php?base=5400&id=5410) | `features/02-mindre-arrangemang/genomfora-arrangemanget.feature` |
+| [x] | 5411 | &nbsp;&nbsp;&nbsp;&nbsp;[Brickavläsning](https://melin.nu/meos/sv/show.php?base=5400&id=5411) | `02-mindre-arrangemang/brickavlasning.feature` |
+| [x] | 5419 | &nbsp;&nbsp;&nbsp;&nbsp;[Manuell tidtagning](https://melin.nu/meos/sv/show.php?base=5400&id=5419) | `features/02-mindre-arrangemang/manuell-tidtagning.feature` |
+| [x] | 5412 | &nbsp;&nbsp;&nbsp;&nbsp;[Godkänna och diskvalificera deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5412) | `features/02-mindre-arrangemang/godkanna-och-diskvalificera-deltagare.feature` |
+| [x] | 5413 | &nbsp;&nbsp;&nbsp;&nbsp;[Redigera stämplingar](https://melin.nu/meos/sv/show.php?base=5400&id=5413) | `features/02-mindre-arrangemang/redigera-stamplingar.feature` |
+| [x] | 5414 | &nbsp;&nbsp;&nbsp;&nbsp;[Sträcktidsutskrifter](https://melin.nu/meos/sv/show.php?base=5400&id=5414) | `features/02-mindre-arrangemang/stracktidsutskrifter.feature` |
+| [x] | 5415 | &nbsp;&nbsp;&nbsp;&nbsp;[Start- och resultatlistor](https://melin.nu/meos/sv/show.php?base=5400&id=5415) | `features/02-mindre-arrangemang/start-och-resultatlistor.feature` |
+| [x] | 5416 | &nbsp;&nbsp;&nbsp;&nbsp;[Export av resultat och sträcktider](https://melin.nu/meos/sv/show.php?base=5400&id=5416) | `features/02-mindre-arrangemang/export-av-resultat-och-stracktider.feature` |
+| [x] | 5417 | &nbsp;&nbsp;&nbsp;&nbsp;[Kvar-i-skogen](https://melin.nu/meos/sv/show.php?base=5400&id=5417) | `features/02-mindre-arrangemang/kvar-i-skogen.feature` |
+| [x] | 5420 | &nbsp;&nbsp;&nbsp;&nbsp;[Flera lopp eller varv per deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5420) | `features/02-mindre-arrangemang/flera-lopp-eller-varv-per-deltagare.feature` |
+| [x] | 5418 | &nbsp;&nbsp;&nbsp;&nbsp;[Individuell resultatrapport och resultatkiosker](https://melin.nu/meos/sv/show.php?base=5400&id=5418) | `features/02-mindre-arrangemang/individuell-resultatrapport-och-resultatkiosker.feature` |
+| [x] | 5421 | &nbsp;&nbsp;[Sträcktidsutskrift utan tävling](https://melin.nu/meos/sv/show.php?base=5400&id=5421) | `features/02-mindre-arrangemang/stracktidsutskrift-utan-tavling.feature` |
+| [x] | 5423 | &nbsp;&nbsp;[Importera resultat](https://melin.nu/meos/sv/show.php?base=5400&id=5423) | `features/02-mindre-arrangemang/importera-resultat.feature` |
 
 ## Tidtagning utan banor och kontroller
 
