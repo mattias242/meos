@@ -36,8 +36,7 @@ Egenskap: Ranking
       Så är löparen med ranking 1 högst rankad
 
     Scenario: Ordningsbaserad ranking läses in från CSV
-      Givet en CSV-fil med kolumnerna Id, Förnamn, Efternamn, Nationalitet,
-         Ordningsranking och Poäng
+      Givet en CSV-fil med kolumnerna Id, Förnamn, Efternamn, Nationalitet, Ordningsranking och Poäng
       När filen importeras
       Så får löparna sin ordningsbaserade ranking
 

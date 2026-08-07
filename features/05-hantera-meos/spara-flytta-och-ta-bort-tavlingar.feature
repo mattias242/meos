@@ -65,8 +65,7 @@ Egenskap: Spara, flytta och ta bort tävlingar
     Scenario: Import av befintlig tävling ger val mellan version och nytt id
       Givet att det redan finns en version av tävlingen
       När tävlingen importeras
-      Så frågar MeOS om den ska importeras som ytterligare en version
-         eller få ett nytt id
+      Så frågar MeOS om den ska importeras som ytterligare en version eller få ett nytt id
 
     Scenario: Mall bör importeras med nytt id
       Givet en tävling som ska användas som mall för ett nytt tävlingstillfälle

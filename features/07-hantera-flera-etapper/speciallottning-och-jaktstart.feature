@@ -16,8 +16,7 @@ Egenskap: Speciallottning och jaktstart
     Scenario: Vakanser, nummerlappar och efteranmälda försvinner
       Givet att flerdagarsfunktionerna är markerade
       När lottningsdialogen visas
-      Så går det inte att tillsätta vakanser, tilldela nummerlappar
-         eller lotta efteranmälda
+      Så går det inte att tillsätta vakanser, tilldela nummerlappar eller lotta efteranmälda
 
   Regel: Jaktstart startar ledaren först
 
@@ -77,8 +76,7 @@ Egenskap: Speciallottning och jaktstart
       Och ledaren startar sist
 
     Scenario: För långt efter eller ej godkänd får intervallstart
-      Givet deltagare som inte är godkända sedan tidigare
-         eller är längre efter än maxtiden
+      Givet deltagare som inte är godkända sedan tidigare eller är längre efter än maxtiden
       När lottningen utförs
       Så startar de med intervallstart från och med första omstartstid
 

@@ -70,8 +70,7 @@ Egenskap: Dela klasser
     Scenario: Deltagare som inte kan särskiljas hålls ihop
       Givet en klubbvis delning där en klubb är större än det angivna antalet
       När delningen genomförs
-      Så hålls klubbens deltagare ihop i samma klass
-      Även om klassen därmed blir för stor
+      Så hålls klubbens deltagare ihop i samma klass även om klassen därmed blir för stor
 
   Regel: Fördelningen kan justeras i efterhand
 

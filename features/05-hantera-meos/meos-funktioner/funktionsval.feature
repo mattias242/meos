@@ -47,9 +47,7 @@ Egenskap: Val av funktioner för en tävling
     Scenario: Ny tävling får basfunktionerna som standard
       Givet en ny tävling utan särskilda inställningar
       När standardfunktionerna läses in
-      Så är "Klubbar", "Flera MeOS-klienter i nätverk", "Gafflade individuella banor",
-         "Vakanser och återbud", "Beräkna kvar-i-skogen", "Förbereda startlistor"
-         och "Nummerlappar" aktiva
+      Så är "Klubbar", "Flera MeOS-klienter i nätverk", "Gafflade individuella banor", "Vakanser och återbud", "Beräkna kvar-i-skogen", "Förbereda startlistor" och "Nummerlappar" aktiva
 
     Scenario: Ekonomi ingår i standardvalet när tävlingen använder avgifter
       Givet en tävling där tävlingsinställningen "använd ekonomi" är påslagen
@@ -102,10 +100,7 @@ Egenskap: Val av funktioner för en tävling
     Scenario: Profilen "Individuell tävling" ger en komplett individuell tävling
       Givet en ny tävling utan lag
       När profilen "Individuell tävling" väljs
-      Så är "Använd speakerstöd", "Ekonomi och avgifter", "Redigera klubbar",
-         "Flera MeOS-klienter i nätverk", "Vakanser och återbud",
-         "Beräkna kvar-i-skogen", "Förbereda startlistor", "Nummerlappar"
-         och "Klubb- och löpardatabas" aktiva
+      Så är "Använd speakerstöd", "Ekonomi och avgifter", "Redigera klubbar", "Flera MeOS-klienter i nätverk", "Vakanser och återbud", "Beräkna kvar-i-skogen", "Förbereda startlistor", "Nummerlappar" och "Klubb- och löpardatabas" aktiva
       Och "Klubbar" är aktiv eftersom "Redigera klubbar" kräver den
       Och "Stafetter och lagtävlingar" är inte aktiv
 
@@ -139,5 +134,4 @@ Egenskap: Val av funktioner för en tävling
     Scenario: Individuella profiler är inte valbara för en tävling med lag
       Givet en tävling som redan innehåller lag
       När funktionsprofilerna visas
-      Så går det inte att välja "Individuell tävling", "Individuellt, gafflat",
-         "Endast grundläggande" eller "Endast tidtagning (utan banor)"
+      Så går det inte att välja "Individuell tävling", "Individuellt, gafflat", "Endast grundläggande" eller "Endast tidtagning (utan banor)"

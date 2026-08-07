@@ -23,6 +23,7 @@ docs/
   UTVECKLINGSPROCESS_BDD_TDD.md    # detta dokument
   DOKUMENTATIONSTACKNING.md        # checklista: 121 dokumentationssidor -> feature-filer
   FUNKTIONSKATALOG_BDD.md          # MeOS 19 funktionsmoduler
+  MRL_SYMBOLER.md                  # symbolreferens för resultatmoduler
   TESTSTRATEGI.md                  # teststrategi + svaga områden
   TEST_TODO.md                     # prioriterad todo/målbild
 ```
@@ -61,6 +62,11 @@ Egenskap: Avläsning av löparbricka
   och checkas in i samma commit/PR som implementationen.
 - Kantfall (felstämpling, kvarvarande löpare, delad placering, omstart) får egna
   scenarier — det är oftast där buggarna bor.
+- **Ett steg är alltid en enda rad.** Gherkin tillåter inte radbrutna steg; en
+  följande rad som inte börjar med ett nyckelord är ett syntaxfel. Behöver ett
+  steg vara långt, dela upp det i flera `Och`-steg.
+- Filerna ska kunna läsas av en Gherkin-parser (Cucumber) med svenskt språkval.
+  Kör parsern över `features/` innan en PR skickas.
 
 ### 1.4 Koppling scenario → test
 

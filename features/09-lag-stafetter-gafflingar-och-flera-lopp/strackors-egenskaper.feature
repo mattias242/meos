@@ -133,5 +133,4 @@ Egenskap: Sträckors egenskaper
     Scenario: Testtävling verifierar tolkningen
       Givet en stafett med specialiserade regler
       När inställningarna gjorts
-      Så bör en testtävling köras med manuellt inmatade resultat
-         eller simulerad brickavläsning
+      Så bör en testtävling köras med manuellt inmatade resultat eller simulerad brickavläsning

@@ -40,7 +40,7 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 | [x] | 5409 | &nbsp;&nbsp;&nbsp;&nbsp;[Lotta samma bana gemensamt](https://melin.nu/meos/sv/show.php?base=5400&id=5409) | `features/02-mindre-arrangemang/lotta-samma-bana-gemensamt.feature` |
 | [x] | 5407 | &nbsp;&nbsp;&nbsp;&nbsp;[Hyrbrickor och återanvändning av brickor](https://melin.nu/meos/sv/show.php?base=5400&id=5407) | `features/02-mindre-arrangemang/hyrbrickor-och-ateranvandning-av-brickor.feature` |
 | [x] | 5410 | &nbsp;&nbsp;[Genomföra arrangemanget](https://melin.nu/meos/sv/show.php?base=5400&id=5410) | `features/02-mindre-arrangemang/genomfora-arrangemanget.feature` |
-| [x] | 5411 | &nbsp;&nbsp;&nbsp;&nbsp;[Brickavläsning](https://melin.nu/meos/sv/show.php?base=5400&id=5411) | `02-mindre-arrangemang/brickavlasning.feature` |
+| [x] | 5411 | &nbsp;&nbsp;&nbsp;&nbsp;[Brickavläsning](https://melin.nu/meos/sv/show.php?base=5400&id=5411) | `features/02-mindre-arrangemang/brickavlasning.feature` |
 | [x] | 5419 | &nbsp;&nbsp;&nbsp;&nbsp;[Manuell tidtagning](https://melin.nu/meos/sv/show.php?base=5400&id=5419) | `features/02-mindre-arrangemang/manuell-tidtagning.feature` |
 | [x] | 5412 | &nbsp;&nbsp;&nbsp;&nbsp;[Godkänna och diskvalificera deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5412) | `features/02-mindre-arrangemang/godkanna-och-diskvalificera-deltagare.feature` |
 | [x] | 5413 | &nbsp;&nbsp;&nbsp;&nbsp;[Redigera stämplingar](https://melin.nu/meos/sv/show.php?base=5400&id=5413) | `features/02-mindre-arrangemang/redigera-stamplingar.feature` |
@@ -57,7 +57,7 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [x] | 5507 | [Tidtagning utan banor och kontroller](https://melin.nu/meos/sv/show.php?base=5400&id=5507) | `03-tidtagning-utan-banor-och-kontroller/tidtagning-utan-banor-och-kontroller.feature` |
+| [x] | 5507 | [Tidtagning utan banor och kontroller](https://melin.nu/meos/sv/show.php?base=5400&id=5507) | `features/03-tidtagning-utan-banor-och-kontroller/tidtagning-utan-banor-och-kontroller.feature` |
 
 ## Tavlingsfunktioner
 
@@ -83,7 +83,7 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
 | [x] | 5424 | [Hantera MeOS](https://melin.nu/meos/sv/show.php?base=5400&id=5424) | `features/05-hantera-meos/hantera-meos.feature` |
-| [x] | 5434 | &nbsp;&nbsp;[MeOS funktioner](https://melin.nu/meos/sv/show.php?base=5400&id=5434) | `05-hantera-meos/meos-funktioner/ (6 filer)` |
+| [x] | 5434 | &nbsp;&nbsp;[MeOS funktioner](https://melin.nu/meos/sv/show.php?base=5400&id=5434) | `features/05-hantera-meos/meos-funktioner/funktionsval.feature`, `allmant.feature`, `meos-funktioner.feature` |
 | [x] | 5439 | &nbsp;&nbsp;[Valbara extra datafält](https://melin.nu/meos/sv/show.php?base=5400&id=5439) | `features/05-hantera-meos/valbara-extra-datafalt.feature` |
 | [x] | 5431 | &nbsp;&nbsp;[Spara, flytta och ta bort tävlingar](https://melin.nu/meos/sv/show.php?base=5400&id=5431) | `features/05-hantera-meos/spara-flytta-och-ta-bort-tavlingar.feature` |
 | [x] | 5425 | &nbsp;&nbsp;[Löpardatabasen](https://melin.nu/meos/sv/show.php?base=5400&id=5425) | `features/05-hantera-meos/lopardatabasen.feature` |
@@ -155,7 +155,7 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [x] | 5472 | [Lag, stafetter, gafflingar och flera lopp](https://melin.nu/meos/sv/show.php?base=5400&id=5472) | `09-lag-stafetter-gafflingar-och-flera-lopp/lag-och-gaffling-funktioner.feature` |
+| [x] | 5472 | [Lag, stafetter, gafflingar och flera lopp](https://melin.nu/meos/sv/show.php?base=5400&id=5472) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/lag-stafetter-gafflingar-och-flera-lopp.feature`, `lag-och-gaffling-funktioner.feature` |
 | [x] | 5474 | &nbsp;&nbsp;[Bantilldelning](https://melin.nu/meos/sv/show.php?base=5400&id=5474) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/bantilldelning.feature` |
 | [x] | 5475 | &nbsp;&nbsp;[Sträckors egenskaper](https://melin.nu/meos/sv/show.php?base=5400&id=5475) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/strackors-egenskaper.feature` |
 | [x] | 5476 | &nbsp;&nbsp;[Hantera lag](https://melin.nu/meos/sv/show.php?base=5400&id=5476) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/hantera-lag.feature` |
@@ -169,14 +169,14 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
 | [x] | 5503 | [Kval och final – knockout sprint](https://melin.nu/meos/sv/show.php?base=5400&id=5503) | `features/10-kval-och-final-knockout-sprint/kval-och-final-knockout-sprint.feature` |
-| [x] | 5504 | &nbsp;&nbsp;[Redigera kval/final-scheman](https://melin.nu/meos/sv/show.php?base=5400&id=5504) | `10-kval-och-final-knockout-sprint/redigera-kval-final-scheman.feature` |
+| [x] | 5504 | &nbsp;&nbsp;[Redigera kval/final-scheman](https://melin.nu/meos/sv/show.php?base=5400&id=5504) | `features/10-kval-och-final-knockout-sprint/redigera-kval-final-scheman.feature` |
 | [x] | 5505 | &nbsp;&nbsp;[Exempelscheman](https://melin.nu/meos/sv/show.php?base=5400&id=5505) | `features/10-kval-och-final-knockout-sprint/exempelscheman.feature` |
 
 ## Rogaining
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [x] | 5482 | [Rogaining](https://melin.nu/meos/sv/show.php?base=5400&id=5482) | `11-rogaining/rogaining-funktioner.feature` |
+| [x] | 5482 | [Rogaining](https://melin.nu/meos/sv/show.php?base=5400&id=5482) | `features/11-rogaining/rogaining.feature`, `rogaining-funktioner.feature` |
 | [x] | 5483 | &nbsp;&nbsp;[Rogaining i lag](https://melin.nu/meos/sv/show.php?base=5400&id=5483) | `features/11-rogaining/rogaining-i-lag.feature` |
 
 ## Redigera listor
@@ -195,17 +195,17 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5497 | [Resultatmoduler](https://melin.nu/meos/sv/show.php?base=5400&id=5497) | `features/13-resultatmoduler/resultatmoduler.feature` |
-| [ ] | 5498 | &nbsp;&nbsp;[MRL – MeOS Result Language](https://melin.nu/meos/sv/show.php?base=5400&id=5498) | `features/13-resultatmoduler/mrl-meos-result-language.feature` |
-| [ ] | 5499 | &nbsp;&nbsp;[Resultatregler](https://melin.nu/meos/sv/show.php?base=5400&id=5499) | `features/13-resultatmoduler/resultatregler.feature` |
-| [ ] | 5500 | &nbsp;&nbsp;[Definierade symboler](https://melin.nu/meos/sv/show.php?base=5400&id=5500) | `features/13-resultatmoduler/definierade-symboler.feature` |
-| [ ] | 5501 | &nbsp;&nbsp;[Testkörning och avlusning](https://melin.nu/meos/sv/show.php?base=5400&id=5501) | `features/13-resultatmoduler/testkorning-och-avlusning.feature` |
+| [x] | 5497 | [Resultatmoduler](https://melin.nu/meos/sv/show.php?base=5400&id=5497) | `features/13-resultatmoduler/resultatmoduler.feature` |
+| [x] | 5498 | &nbsp;&nbsp;[MRL – MeOS Result Language](https://melin.nu/meos/sv/show.php?base=5400&id=5498) | `features/13-resultatmoduler/mrl-meos-result-language.feature` |
+| [x] | 5499 | &nbsp;&nbsp;[Resultatregler](https://melin.nu/meos/sv/show.php?base=5400&id=5499) | `features/13-resultatmoduler/resultatregler.feature` |
+| [x] | 5500 | &nbsp;&nbsp;[Definierade symboler](https://melin.nu/meos/sv/show.php?base=5400&id=5500) | `features/13-resultatmoduler/definierade-symboler.feature` + [MRL_SYMBOLER.md](MRL_SYMBOLER.md) |
+| [x] | 5501 | &nbsp;&nbsp;[Testkörning och avlusning](https://melin.nu/meos/sv/show.php?base=5400&id=5501) | `features/13-resultatmoduler/testkorning-och-avlusning.feature` |
 
 ## Appendix
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5480 | &nbsp;&nbsp;[Appendix I: Eventorkoppling](https://melin.nu/meos/sv/show.php?base=5400&id=5480) | `features/14-appendix/appendix-i-eventorkoppling.feature` |
-| [ ] | 5481 | &nbsp;&nbsp;[Appendix II: Tabelläge](https://melin.nu/meos/sv/show.php?base=5400&id=5481) | `features/14-appendix/appendix-ii-tabellage.feature` |
-| [ ] | 5502 | &nbsp;&nbsp;[Appendix III: Mästerskap med kval och final](https://melin.nu/meos/sv/show.php?base=5400&id=5502) | `features/14-appendix/appendix-iii-masterskap-med-kval-och-final.feature` |
+| [x] | 5480 | &nbsp;&nbsp;[Appendix I: Eventorkoppling](https://melin.nu/meos/sv/show.php?base=5400&id=5480) | `features/14-appendix/appendix-i-eventorkoppling.feature` |
+| [x] | 5481 | &nbsp;&nbsp;[Appendix II: Tabelläge](https://melin.nu/meos/sv/show.php?base=5400&id=5481) | `features/14-appendix/appendix-ii-tabellage.feature` |
+| [x] | 5502 | &nbsp;&nbsp;[Appendix III: Mästerskap med kval och final](https://melin.nu/meos/sv/show.php?base=5400&id=5502) | `features/14-appendix/appendix-iii-masterskap-med-kval-och-final.feature` |
 | [-] | 5496 | &nbsp;&nbsp;[Appendix IV: MeOS på Mac och Linux](https://melin.nu/meos/sv/show.php?base=5400&id=5496) | — (miljöinstruktion: MeOS under Wine) |

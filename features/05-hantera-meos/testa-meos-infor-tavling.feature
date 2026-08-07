@@ -9,8 +9,7 @@ Egenskap: Testa MeOS inför tävling
   Regel: Specialfunktioner bör provas i förväg
 
     Scenario: Tävlingsform med specialregler kontrolleras
-      Givet en tävlingsform med särskilda regler för resultatuträkning
-         eller för lag och växlingar
+      Givet en tävlingsform med särskilda regler för resultatuträkning eller för lag och växlingar
       När tävlingen förbereds
       Så bör datorer, nätverk och regler testas i förväg
 

@@ -86,8 +86,7 @@ Egenskap: Allmänna råd och tips
 
     Scenario: Tävlingen kan byggas upp bakifrån
       Givet MeOS utan förberedd tävling
-      När brickor läses in, deltagare läggs in, banor och klasser definieras
-         och löpare sätts ihop i lag
+      När brickor läses in, deltagare läggs in, banor och klasser definieras och löpare sätts ihop i lag
       Så kan stafettresultat skrivas ut
 
     Scenario: Uppenbara beroenden måste ändå respekteras

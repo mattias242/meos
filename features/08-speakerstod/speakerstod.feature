@@ -132,5 +132,4 @@ Egenskap: Speakerstöd
     Scenario: Direkt tidtagning visar rullande stoppur
       Givet ett speakerfönster
       När "Direkt tidtagning" väljs
-      Så visas en specialvy för storbildskärm där deltagare som startar
-         samtidigt tävlar mot varandra med rullande tidtagning
+      Så visas en specialvy för storbildskärm där deltagare som startar samtidigt tävlar mot varandra med rullande tidtagning

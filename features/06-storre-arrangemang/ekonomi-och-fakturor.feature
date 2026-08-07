@@ -38,8 +38,7 @@ Egenskap: Ekonomi och fakturor
     Scenario: Ny klass får avgifter från tävlingsinställningarna
       Givet inställda avgifter på tävlingen
       När en ny klass skapas
-      Så får fälten anmälningsavgift och efteranmälningsavgift värden
-         enligt inställningarna och klasstypen
+      Så får fälten anmälningsavgift och efteranmälningsavgift värden enligt inställningarna och klasstypen
 
     Scenario: Reducerad avgift gäller unga och gamla
       Givet inställda åldersgränser i tävlingsinställningarna
@@ -54,8 +53,7 @@ Egenskap: Ekonomi och fakturor
     Scenario: Deltagarens avgift räknas ut vid anmälan
       Givet en klass med inställda avgifter
       När en deltagare anmäls
-      Så tilldelas avgiften utifrån klassens inställningar, anmälningsdatum
-         och deltagarens ålder
+      Så tilldelas avgiften utifrån klassens inställningar, anmälningsdatum och deltagarens ålder
 
     Scenario: Åldersberoende avgift kräver uppmärksamhet vid direktanmälan
       Givet en klass där avgiften beror på deltagarens ålder
@@ -77,8 +75,7 @@ Egenskap: Ekonomi och fakturor
     Scenario: Rapporten jämför uträknad och faktisk avgift
       Givet en deltagare vars avgift avviker från den uträknade
       När rapporten "Oväntade anmälningsavgifter" visas på sidan "Listor"
-      Så visas deltagarens namn, klubb, klass, ålder, förväntad avgift
-         och faktisk avgift
+      Så visas deltagarens namn, klubb, klass, ålder, förväntad avgift och faktisk avgift
 
   Regel: Betalning kan krävas före godkänt resultat
 

@@ -12,15 +12,12 @@ Egenskap: Exportera och importera lottningsunderlag
       Givet en tävling med klasser
       När lottningsunderlaget exporteras
       Så innehåller filen en rubrikrad följd av en rad per klass
-      Och kolumnerna klassens id, klassens namn, antal anmälda, banans namn,
-         första kontrollens nummer, klassens första start, startintervall
-         och antal vakanser
+      Och kolumnerna klassens id, klassens namn, antal anmälda, banans namn, första kontrollens nummer, klassens första start, startintervall och antal vakanser
 
     Scenario: Exempelrad
       Givet en klass "H21E" med 35 anmälda på bana "A1"
       När lottningsunderlaget exporteras
-      Så innehåller filen en rad i stil med
-         "1; H21E; 35; A1;  79; 07:01:00; 2:00; 1"
+      Så innehåller filen en rad i stil med "1; H21E; 35; A1;  79; 07:01:00; 2:00; 1"
 
   Regel: Vid import används bara vissa kolumner
 
@@ -59,8 +56,7 @@ Egenskap: Exportera och importera lottningsunderlag
     Scenario: Reserverade platser saknas i filen
       Givet en tävling med reserverade platser för efteranmälda
       När lottningsunderlaget exporteras
-      Så saknas fältet i filen
-      Eftersom det inte påverkar lottningen när övriga parametrar är fixerade
+      Så saknas fältet i filen eftersom det inte påverkar lottningen när övriga parametrar är fixerade
 
   Regel: MeOS förslag kan användas som utgångspunkt
 

@@ -29,8 +29,7 @@ Egenskap: Start- och resultatlistor
     Scenario: Lista kopieras till urklipp
       Givet en visad lista
       När "Kopiera" väljs
-      Så ligger listan i urklipp och kan klistras in i ett ordbehandlings-
-         eller kalkylbladsprogram
+      Så ligger listan i urklipp och kan klistras in i ett ordbehandlings- eller kalkylbladsprogram
 
     Scenario: Lista öppnas i ett eget fönster
       Givet en visad lista

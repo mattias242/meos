@@ -58,9 +58,7 @@ Egenskap: Godkänna och diskvalificera deltagare
     Scenario: Tillgängliga statustillstånd
       Givet en deltagare
       När status ska sättas
-      Så finns tillstånden okänd (–), godkänd (OK), ej start, återbud,
-         felstämplad (felst.), utgått (utg.), diskvalificerad (disk.)
-         och löptid över tillåten tid (maxtid)
+      Så finns tillstånden okänd (–), godkänd (OK), ej start, återbud, felstämplad (felst.), utgått (utg.), diskvalificerad (disk.) och löptid över tillåten tid (maxtid)
 
     Scenario: Utan tidtagning döljer tiderna men visar status
       Givet en deltagare med status "Utan tidtagning"

@@ -141,8 +141,7 @@ Egenskap: MeOS i nätverk
     Scenario: Nedkoppling skapar en lokal kopia
       Givet en öppen servertävling
       När "Koppla ner databasen" väljs
-      Så skapas en lokal kopia med namnet
-         "tävlingsnamn (lokal kopia från: servernamn)"
+      Så skapas en lokal kopia med namnet "tävlingsnamn (lokal kopia från: servernamn)"
 
     Scenario: Den lokala kopian är inte nödvändigtvis fullständig
       Givet en lokal kopia skapad vid nedkoppling

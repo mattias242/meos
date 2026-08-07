@@ -33,14 +33,12 @@ Egenskap: Automatisk utskrift och filexport
     Scenario: Filformatet kan vara strukturerat eller fritt formaterat
       Givet en automat med export vald
       När filformatet väljs
-      Så kan det vara strukturerat, baserat på en tabellstruktur,
-         eller fritt formaterat
+      Så kan det vara strukturerat, baserat på en tabellstruktur, eller fritt formaterat
 
     Scenario: HTML med AutoRefresh laddas om i webbläsaren
       Givet en automat med HTML-export
       När "HTML med AutoRefresh" aktiveras
-      Så instrueras webbläsaren att ladda om filen med samma intervall
-         som den exporteras
+      Så instrueras webbläsaren att ladda om filen med samma intervall som den exporteras
 
   Regel: Ett eget skript kan köras efter varje export
 

@@ -51,8 +51,7 @@ Egenskap: Lag, stafetter, gafflingar och flera lopp
       Givet gafflingar som ska importeras via IOF-XML 3.0
       Och att lag och deltagare ännu inte lagts in
       När importen ska göras
-      Så måste första nummerlappsnummer anges i varje klass
-      Eftersom filens koppling specificeras genom nummerlappsnummer
+      Så måste första nummerlappsnummer anges i varje klass eftersom filens koppling specificeras genom nummerlappsnummer
 
     Scenario: Numret anges i klassernas snabbinställningar
       Givet snabbinställningarna på sidan "Klasser"

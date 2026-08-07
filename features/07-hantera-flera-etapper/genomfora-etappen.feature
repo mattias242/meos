@@ -12,8 +12,7 @@ Egenskap: Genomföra etappen
     Scenario: Särskilda handgrepp krävs bara före och efter
       Givet en uppsatt etapp
       När etappen genomförs
-      Så krävs särskilda handgrepp endast för att sätta upp etappen
-         och för att överföra resultat efteråt
+      Så krävs särskilda handgrepp endast för att sätta upp etappen och för att överföra resultat efteråt
 
     Scenario: Etappen flyttas till och från servern som fil
       Givet en etapp förberedd lokalt
@@ -32,8 +31,7 @@ Egenskap: Genomföra etappen
   Regel: Klassbyten mellan etapper hanteras enligt ett valt alternativ
 
     Scenario: Byt till vakansplats i rätt klass
-      Givet en deltagare som bytt klass och en ledig vakansplats i rätt klass
-         i nästa etapp
+      Givet en deltagare som bytt klass och en ledig vakansplats i rätt klass i nästa etapp
       När alternativet "Byt till vakansplats i rätt klass (om möjligt)" väljs
       Så byter deltagaren klass i nästa etapp och tar vakansplatsen
 
@@ -57,8 +55,7 @@ Egenskap: Genomföra etappen
     Scenario: Tillåt ny klass och behåll resultat från annan klass
       Givet en deltagare med annan klass i nästa etapp
       När alternativet "Tillåt ny klass, behåll resultat från annan klass" väljs
-      Så behålls både klassen och totalresultatet
-      Även om resultaten kommer från olika klasser
+      Så behålls både klassen och totalresultatet även om resultaten kommer från olika klasser
 
   Regel: Nyanmälda under en etapp kan föras över
 
@@ -78,8 +75,7 @@ Egenskap: Genomföra etappen
     Scenario: Rutan Resultat från tidigare etapper
       Givet en deltagare i etapp 2
       När deltagaren visas på sidan "Deltagare"
-      Så finns rutan "Resultat från tidigare etapper" med fälten
-         Status, Tid, Placering och Poäng
+      Så finns rutan "Resultat från tidigare etapper" med fälten Status, Tid, Placering och Poäng
 
     Scenario: Värdena kan ändras manuellt
       Givet överförda resultat på en deltagare
@@ -94,8 +90,7 @@ Egenskap: Genomföra etappen
     Scenario: Tabelläget visar samma värden
       Givet tabelläget på sidan "Deltagare"
       När kolumnerna visas
-      Så innehåller "Tid in", "Status in", "Poäng in" och "Placering in"
-         det överförda totalresultatet
+      Så innehåller "Tid in", "Status in", "Poäng in" och "Placering in" det överförda totalresultatet
 
   Regel: Etappresultat och slutresultat inkluderar överförda resultat
 

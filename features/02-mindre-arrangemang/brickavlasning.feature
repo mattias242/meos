@@ -130,8 +130,7 @@ Egenskap: Brickavläsning
     Scenario: Olika ljud för olika utfall
       Givet att "Ljud" är markerat
       När en bricka läses in
-      Så spelas ett ljud som beror på utfallet godkänd, inte godkänd,
-         åtgärd krävs eller ny ledare i klassen
+      Så spelas ett ljud som beror på utfallet godkänd, inte godkänd, åtgärd krävs eller ny ledare i klassen
 
     Scenario: Egna ljudfiler kan väljas
       Givet att ljudåterkoppling är aktiv

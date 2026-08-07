@@ -107,5 +107,4 @@ Egenskap: Publicera resultat på Internet
     Scenario: Flera MeOS-instanser på samma dator varnar
       Givet en dator med flera startade MeOS-instanser
       När instanserna körs
-      Så varnar MeOS om att snabb förhandsinformation är blockerad
-         på alla klienter utom den först startade
+      Så varnar MeOS om att snabb förhandsinformation är blockerad på alla klienter utom den först startade

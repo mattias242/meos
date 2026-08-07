@@ -11,8 +11,7 @@ Egenskap: Valbara extra datafält
     Scenario: Fält stöds på deltagare, lag, klasser och direktanmälan
       Givet en tävling
       När extra datafält aktiveras
-      Så kan de visas på sidorna "Deltagare", "Lag" och "Klasser"
-         samt i dialogen för direktanmälan
+      Så kan de visas på sidorna "Deltagare", "Lag" och "Klasser" samt i dialogen för direktanmälan
 
   Regel: Inbyggda extra datafält aktiveras med kryssruta
 

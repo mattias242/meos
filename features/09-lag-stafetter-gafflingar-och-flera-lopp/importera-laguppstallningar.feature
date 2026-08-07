@@ -89,8 +89,7 @@ Egenskap: Importera laguppställningar
     Scenario: Patrullraden har nio fält
       Givet en patrullrad
       När den tolkas
-      Så anges startnummer, lagnamn, stad, anmälningsdatum, klassnamn,
-         klassid, deltagare 1, deltagare 2 och sorteringsindex
+      Så anges startnummer, lagnamn, stad, anmälningsdatum, klassnamn, klassid, deltagare 1, deltagare 2 och sorteringsindex
 
     Scenario: Importen görs från sidan Tävling
       Givet en RAIDDATA-fil

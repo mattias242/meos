@@ -19,9 +19,7 @@ Egenskap: Egenskaper för listan
     Scenario: Tillgängliga listtyper
       Givet listans egenskaper
       När listtypen väljs
-      Så finns Bana, Deltagare, Deltagare (klasser gemensamt),
-         Deltagare (per stafettsträcka), Klubb (deltagare), Klubb (lag),
-         Kontroll, Lag och Lag (klasser gemensamt)
+      Så finns Bana, Deltagare, Deltagare (klasser gemensamt), Deltagare (per stafettsträcka), Klubb (deltagare), Klubb (lag), Kontroll, Lag och Lag (klasser gemensamt)
 
     Scenario: Klubbtyperna grupperar listan klubbvis
       Givet listtypen "Klubb (deltagare)"
@@ -61,8 +59,7 @@ Egenskap: Egenskaper för listan
     Scenario: Standard väljer beräkning efter innehåll och klass
       Givet resultatberäkningen "Standard"
       När resultatet räknas ut
-      Så används individuella resultat, lagresultat, totalresultat eller
-         rogainingresultat beroende på listans innehåll och klassens definition
+      Så används individuella resultat, lagresultat, totalresultat eller rogainingresultat beroende på listans innehåll och klassens definition
 
     Scenario: Egen resultatmodul kan väljas
       Givet listans egenskaper
@@ -74,8 +71,7 @@ Egenskap: Egenskaper för listan
     Scenario: Sorteringen bör passa underrubriken
       Givet en sortering som börjar med klass
       När underrubriken definieras
-      Så är det lämpligt att den baseras på klasstyper som klassnamn
-         eller banlängd för klass
+      Så är det lämpligt att den baseras på klasstyper som klassnamn eller banlängd för klass
 
     Scenario: Klass, starttid, namn för startlistor
       Givet en startlista
@@ -114,8 +110,7 @@ Egenskap: Egenskaper för listan
     Scenario: Underlista per rad
       Givet en lista med en sekundär typ
       När listan skapas
-      Så skapas en underlista för varje rad, till exempel sträcktider
-         eller lagets deltagare
+      Så skapas en underlista för varje rad, till exempel sträcktider eller lagets deltagare
 
   Regel: Tidtagning från och till kontroll kan stödjas
 
@@ -132,8 +127,7 @@ Egenskap: Egenskaper för listan
     Scenario: Inbyggda moduler som stöder valet
       Givet en lista med stöd för tidtagning vid kontroll
       När en resultatmodul väljs
-      Så kan "Resultat vid kontroll" eller
-         "Lag- och totalresultat vid kontroll" användas
+      Så kan "Resultat vid kontroll" eller "Lag- och totalresultat vid kontroll" användas
 
   Regel: Filtrering väljer vilka rader som tas med
 

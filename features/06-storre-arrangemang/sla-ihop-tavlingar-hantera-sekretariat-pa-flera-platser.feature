@@ -60,8 +60,7 @@ Egenskap: Slå ihop tävlingar och hantera sekretariat på flera platser
     Scenario: Strikt uppdelning per klass eller sträcka
       Givet flera sekretariat
       När arbetet delas upp
-      Så bör uppdelningen vara strikt i vilka klasser eller sträckor
-         som hanteras var
+      Så bör uppdelningen vara strikt i vilka klasser eller sträckor som hanteras var
 
   Regel: Utbytet måste följa en fast topologi
 

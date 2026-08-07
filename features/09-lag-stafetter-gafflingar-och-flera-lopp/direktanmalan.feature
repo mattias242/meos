@@ -10,8 +10,7 @@ Egenskap: Direktanmälan till en lagsträcka
 
     Scenario: Ny löpare anmäls till en sträcka
       Givet ett valt eller nyskapat lag på sidan "Lag"
-      När en sträcka väljs, "<>" (Knyt löpare till sträckan) klickas
-         och "Direktanmälan" väljs
+      När en sträcka väljs, "<>" (Knyt löpare till sträckan) klickas och "Direktanmälan" väljs
       Så kan en ny löpare anmälas direkt till sträckan
 
     Scenario: SI-enhet fyller i bricknumret

@@ -24,8 +24,7 @@ Egenskap: Lotta med startgrupper
     Scenario: Automatisk lottning uppskattar parallellt startande
       Givet definierade startgrupper
       När automatisk lottning körs
-      Så uppskattar MeOS hur många parallellt startande som krävs
-         för att deltagarna ska få plats i sina startgrupper
+      Så uppskattar MeOS hur många parallellt startande som krävs för att deltagarna ska få plats i sina startgrupper
 
     Scenario: Manuell lottning ger mer kontroll
       Givet definierade startgrupper
@@ -63,5 +62,4 @@ Egenskap: Lotta med startgrupper
     Scenario: Många olika första kontroller behövs
       Givet en tävling med startgrupper
       När banorna läggs
-      Så är det viktigt med ett stort antal olika första kontroller
-      Även när det inte är orienteringstekniskt motiverat för den enskilda banan
+      Så är det viktigt med ett stort antal olika första kontroller även när det inte är orienteringstekniskt motiverat för den enskilda banan

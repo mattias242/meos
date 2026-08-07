@@ -76,8 +76,7 @@ Egenskap: Förberedelser inför flera etapper
     Scenario: Etapperna bör skapas efter efteranmälningstidens slut
       Givet en tävling med öppen efteranmälan
       När etapperna ska skapas
-      Så bör det vänta tills tiden gått ut, om inte vakanser används
-         för att tillsätta efteranmälda
+      Så bör det vänta tills tiden gått ut, om inte vakanser används för att tillsätta efteranmälda
 
   Regel: Variant två — separat anmälan till varje etapp
 

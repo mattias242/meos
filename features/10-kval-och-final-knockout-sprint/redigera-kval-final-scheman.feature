@@ -52,8 +52,7 @@ Egenskap: Redigera kval/final-scheman
 
     Scenario: Placeringar från ett kvalheat pekas ut
       Givet en klass på nivå 2
-      När regeln "Klass/placering" väljs med kvalklassen och placeringarna
-         1, 3, 5 och 7
+      När regeln "Klass/placering" väljs med kvalklassen och placeringarna 1, 3, 5 och 7
       Och "Lägg till" väljs
       Så kvalificerar sig de placeringarna till klassen
 
@@ -67,8 +66,7 @@ Egenskap: Redigera kval/final-scheman
     Scenario: Bäst tid bland ännu okvalificerade
       Givet en klass med regeln "Bästa tid"
       När kvalificeringen beräknas
-      Så kvalificeras den deltagare som ännu inte är kvalificerad
-         och har bäst tid oavsett heat
+      Så kvalificeras den deltagare som ännu inte är kvalificerad och har bäst tid oavsett heat
 
     Scenario: Flera deltagare kan kvalificeras på tid
       Givet regeln "Bästa tid"
@@ -95,8 +93,7 @@ Egenskap: Redigera kval/final-scheman
   Regel: Uppflyttningen följer schemat
 
     Bakgrund:
-      Givet ett kvalschema med två kvalheat där de 2 främsta i varje heat
-         går till A-final
+      Givet ett kvalschema med två kvalheat där de 2 främsta i varje heat går till A-final
       Och övriga går till B-final
 
     Scenario: De främsta går till A-final

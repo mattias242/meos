@@ -36,8 +36,7 @@ Egenskap: Listornas grundprinciper
     Scenario: Underlistan visar sekundärt innehåll
       Givet en lista med en sekundär listtyp
       När listan skapas
-      Så kan underlistan visa till exempel mellantider för deltagare
-         eller lagmedlemmar för lag
+      Så kan underlistan visa till exempel mellantider för deltagare eller lagmedlemmar för lag
 
   Regel: Varje del innehåller rader av listposter
 
@@ -49,8 +48,7 @@ Egenskap: Listornas grundprinciper
     Scenario: Listposten har en typ
       Givet en listpost
       När typen väljs
-      Så kan den vara till exempel "Klassnamn", "Lags nummerlapp"
-         eller "Deltagares tid"
+      Så kan den vara till exempel "Klassnamn", "Lags nummerlapp" eller "Deltagares tid"
 
     Scenario: Listposten ersätts med text när listan skapas
       Givet en listpost av en viss typ

@@ -23,8 +23,7 @@ Egenskap: Tabelläge och statistik för kontroller
     Scenario: Tabellen innehåller besökare och bomtider
       Givet sidan "Kontroller"
       När "Tabelläge" väljs
-      Så visas antal besökare, maximal bomtid, genomsnittlig bomtid
-         och median-bomtid per kontroll
+      Så visas antal besökare, maximal bomtid, genomsnittlig bomtid och median-bomtid per kontroll
 
     Scenario: Positiv medianbom betyder att hälften missat kontrollen
       Givet en kontroll med median-bomtid 0:45

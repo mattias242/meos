@@ -126,21 +126,18 @@ Egenskap: Avancerad lottning
     Scenario: Statistiken visar startdjup per minut
       Givet ett framtaget förslag
       När listan visas
-      Så framgår per minut hur många som startar, det faktiska startdjupet
-         och det teoretiskt kortast möjliga startdjupet
+      Så framgår per minut hur många som startar, det faktiska startdjupet och det teoretiskt kortast möjliga startdjupet
 
     Scenario: Startfältet kan visualiseras grafiskt
       Givet ett framtaget förslag
       När "Visualisera startfältet" väljs
-      Så öppnas ett fönster med en grafisk sammanställning över vilken klass
-         som startar vilken minut
+      Så öppnas ett fönster med en grafisk sammanställning över vilken klass som startar vilken minut
 
   Regel: Förslaget kan justeras för hand
 
     Scenario: Fält kan ändras per klass
       Givet ett framtaget förslag
-      När första starttid, startintervall, antal vakanser eller antal
-         reserverade platser ändras för en klass
+      När första starttid, startintervall, antal vakanser eller antal reserverade platser ändras för en klass
       Så används de värdena
 
     Scenario: Egna ändringar färgkodas

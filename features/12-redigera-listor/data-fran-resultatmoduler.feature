@@ -16,8 +16,7 @@ Egenskap: Data från resultatmoduler
     Scenario: Endast relaterade typer kan använda modulens data
       Givet en listpost
       När "Data från resultatmodul" ska markeras
-      Så är det möjligt endast för typer relaterade till tid, status och poäng
-      Samt härledda kvantiteter som placering och tid efter
+      Så är det möjligt endast för typer relaterade till tid, status och poäng Samt härledda kvantiteter som placering och tid efter
 
   Regel: OutputTimes och OutputNumbers ger fria värden
 

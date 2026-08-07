@@ -117,8 +117,7 @@ Egenskap: Listposter
     Scenario: Patrullens båda medlemmar på samma rad
       Givet en patrull-lista
       När sträckval används för deltagare 1 och deltagare 2
-      Så visas båda på samma rad
-      I stället för en rad var i en underlista
+      Så visas båda på samma rad i stället för en rad var i en underlista
 
     Scenario: Automatisk sträcka följer visningen
       Givet en listpost med sträckvalet "Automatisk"

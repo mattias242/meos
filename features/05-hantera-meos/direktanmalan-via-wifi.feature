@@ -84,8 +84,7 @@ Egenskap: Direktanmälan via wifi
     Scenario: MeOS säkerhet skyddar inte mot illasinnade
       Givet att deltagare släpps in på nätverket
       När säkerheten bedöms
-      Så är MeOS säkerhet byggd för att hjälpa användare att göra rätt,
-         inte för att hindra hackare
+      Så är MeOS säkerhet byggd för att hjälpa användare att göra rätt, inte för att hindra hackare
 
     Scenario: Två routrar isolerar gästnätet
       Givet en wifi-router kopplad till den interna routerns WAN-port

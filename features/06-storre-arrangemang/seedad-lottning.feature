@@ -25,8 +25,7 @@ Egenskap: Seedad lottning
 
     Scenario: Seedningsdata matas in manuellt
       Givet tabelläget på sidan "Deltagare"
-      När värden skrivs eller klistras in i kolumnerna "Placering in",
-         "Tid in" eller "Poäng in"
+      När värden skrivs eller klistras in i kolumnerna "Placering in", "Tid in" eller "Poäng in"
       Så kan de användas som seedningskälla
 
     Scenario: Ranking används som källa

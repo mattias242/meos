@@ -53,8 +53,7 @@ Egenskap: Omstart
     Scenario: Fler omstarter ger sämre placering
       Givet två godkända lag där det ena har fler omstarter
       När resultatlistan visas
-      Så placeras laget med fler omstarter efter det med färre
-      Oberoende av lagens totaltid
+      Så placeras laget med fler omstarter efter det med färre Oberoende av lagens totaltid
 
   Regel: Rep och omstart kan sättas för flera klasser samtidigt
 

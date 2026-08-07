@@ -11,8 +11,7 @@ Egenskap: Hantera flera tävlingar i en MeOS-tävling
     Scenario: Unika klassnamn minskar risken för fel bana
       Givet två uppsättningar klasser från olika källor
       När klasserna läggs in
-      Så bör namnen vara unika
-      Eftersom banimportfiler vanligtvis kopplar bana till klass via namnet
+      Så bör namnen vara unika eftersom banimportfiler vanligtvis kopplar bana till klass via namnet
 
     Scenario: MeOS tillåter ändå flera klasser med samma namn
       Givet två klasser med samma namn

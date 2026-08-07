@@ -49,8 +49,7 @@ Egenskap: Kval och final – knockout sprint
     Scenario: Härledda klasser skapas när schemat används
       Givet ett färdigt schema
       När "Använd i klassnamn" klickas för klassen "Damer"
-      Så skapas härledda klasser som "Damer–Kval", "Damer–Semi A",
-         "Damer–Semi B" och "Damer–Final"
+      Så skapas härledda klasser som "Damer–Kval", "Damer–Semi A", "Damer–Semi B" och "Damer–Final"
 
     Scenario: Härledda klasser kan döpas om
       Givet skapade härledda klasser

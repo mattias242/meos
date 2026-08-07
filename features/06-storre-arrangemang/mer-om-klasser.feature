@@ -29,8 +29,7 @@ Egenskap: Mer om klasser
 
     Scenario: Startblock ger en minutstartlista per block
       Givet en start med två ingångar
-      När klasserna vid första ingången får startblock 1
-         och klasserna vid andra ingången startblock 2
+      När klasserna vid första ingången får startblock 1 och klasserna vid andra ingången startblock 2
       Så tas en minutstartlista fram per startblock
 
   Regel: Hela klasser kan strykas
