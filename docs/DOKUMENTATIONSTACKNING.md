@@ -82,24 +82,24 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5424 | [Hantera MeOS](https://melin.nu/meos/sv/show.php?base=5400&id=5424) | `features/05-hantera-meos/hantera-meos.feature` |
+| [x] | 5424 | [Hantera MeOS](https://melin.nu/meos/sv/show.php?base=5400&id=5424) | `features/05-hantera-meos/hantera-meos.feature` |
 | [x] | 5434 | &nbsp;&nbsp;[MeOS funktioner](https://melin.nu/meos/sv/show.php?base=5400&id=5434) | `05-hantera-meos/meos-funktioner/ (6 filer)` |
-| [ ] | 5439 | &nbsp;&nbsp;[Valbara extra datafält](https://melin.nu/meos/sv/show.php?base=5400&id=5439) | `features/05-hantera-meos/valbara-extra-datafalt.feature` |
-| [ ] | 5431 | &nbsp;&nbsp;[Spara, flytta och ta bort tävlingar](https://melin.nu/meos/sv/show.php?base=5400&id=5431) | `features/05-hantera-meos/spara-flytta-och-ta-bort-tavlingar.feature` |
-| [ ] | 5425 | &nbsp;&nbsp;[Löpardatabasen](https://melin.nu/meos/sv/show.php?base=5400&id=5425) | `features/05-hantera-meos/lopardatabasen.feature` |
-| [ ] | 5438 | &nbsp;&nbsp;[Ranking](https://melin.nu/meos/sv/show.php?base=5400&id=5438) | `features/05-hantera-meos/ranking.feature` |
-| [ ] | 5441 | &nbsp;&nbsp;[Nummerlappar](https://melin.nu/meos/sv/show.php?base=5400&id=5441) | `features/05-hantera-meos/nummerlappar.feature` |
-| [ ] | 5428 | &nbsp;&nbsp;[Mer om listor](https://melin.nu/meos/sv/show.php?base=5400&id=5428) | `features/05-hantera-meos/mer-om-listor.feature` |
-| [ ] | 5429 | &nbsp;&nbsp;&nbsp;&nbsp;[Listor på helskärm](https://melin.nu/meos/sv/show.php?base=5400&id=5429) | `features/05-hantera-meos/listor-pa-helskarm.feature` |
-| [ ] | 5430 | &nbsp;&nbsp;&nbsp;&nbsp;[Export till HTML/Webb](https://melin.nu/meos/sv/show.php?base=5400&id=5430) | `features/05-hantera-meos/export-till-html-webb.feature` |
-| [ ] | 5426 | &nbsp;&nbsp;[Automatisk utskrift och filexport](https://melin.nu/meos/sv/show.php?base=5400&id=5426) | `features/05-hantera-meos/automatisk-utskrift-och-filexport.feature` |
-| [ ] | 5427 | &nbsp;&nbsp;&nbsp;&nbsp;[Exportera listor till webben](https://melin.nu/meos/sv/show.php?base=5400&id=5427) | `features/05-hantera-meos/exportera-listor-till-webben.feature` |
-| [ ] | 5432 | &nbsp;&nbsp;[Publicera resultat på Internet](https://melin.nu/meos/sv/show.php?base=5400&id=5432) | `features/05-hantera-meos/publicera-resultat-pa-internet.feature` |
-| [ ] | 5433 | &nbsp;&nbsp;[Fjärrinmatning  och radiotider från Internet](https://melin.nu/meos/sv/show.php?base=5400&id=5433) | `features/05-hantera-meos/fjarrinmatning-och-radiotider-fran-internet.feature` |
-| [ ] | 5436 | &nbsp;&nbsp;[MeOS informationsserver](https://melin.nu/meos/sv/show.php?base=5400&id=5436) | `features/05-hantera-meos/meos-informationsserver.feature` |
-| [ ] | 5437 | &nbsp;&nbsp;[Direktanmälan via wifi](https://melin.nu/meos/sv/show.php?base=5400&id=5437) | `features/05-hantera-meos/direktanmalan-via-wifi.feature` |
-| [ ] | 5435 | &nbsp;&nbsp;[Lokala inställningar](https://melin.nu/meos/sv/show.php?base=5400&id=5435) | `features/05-hantera-meos/lokala-installningar.feature` |
-| [ ] | 5440 | &nbsp;&nbsp;[Testa MeOS inför tävling](https://melin.nu/meos/sv/show.php?base=5400&id=5440) | `features/05-hantera-meos/testa-meos-infor-tavling.feature` |
+| [x] | 5439 | &nbsp;&nbsp;[Valbara extra datafält](https://melin.nu/meos/sv/show.php?base=5400&id=5439) | `features/05-hantera-meos/valbara-extra-datafalt.feature` |
+| [x] | 5431 | &nbsp;&nbsp;[Spara, flytta och ta bort tävlingar](https://melin.nu/meos/sv/show.php?base=5400&id=5431) | `features/05-hantera-meos/spara-flytta-och-ta-bort-tavlingar.feature` |
+| [x] | 5425 | &nbsp;&nbsp;[Löpardatabasen](https://melin.nu/meos/sv/show.php?base=5400&id=5425) | `features/05-hantera-meos/lopardatabasen.feature` |
+| [x] | 5438 | &nbsp;&nbsp;[Ranking](https://melin.nu/meos/sv/show.php?base=5400&id=5438) | `features/05-hantera-meos/ranking.feature` |
+| [x] | 5441 | &nbsp;&nbsp;[Nummerlappar](https://melin.nu/meos/sv/show.php?base=5400&id=5441) | `features/05-hantera-meos/nummerlappar.feature` |
+| [x] | 5428 | &nbsp;&nbsp;[Mer om listor](https://melin.nu/meos/sv/show.php?base=5400&id=5428) | `features/05-hantera-meos/mer-om-listor.feature` |
+| [x] | 5429 | &nbsp;&nbsp;&nbsp;&nbsp;[Listor på helskärm](https://melin.nu/meos/sv/show.php?base=5400&id=5429) | `features/05-hantera-meos/listor-pa-helskarm.feature` |
+| [x] | 5430 | &nbsp;&nbsp;&nbsp;&nbsp;[Export till HTML/Webb](https://melin.nu/meos/sv/show.php?base=5400&id=5430) | `features/05-hantera-meos/export-till-html-webb.feature` |
+| [x] | 5426 | &nbsp;&nbsp;[Automatisk utskrift och filexport](https://melin.nu/meos/sv/show.php?base=5400&id=5426) | `features/05-hantera-meos/automatisk-utskrift-och-filexport.feature` |
+| [x] | 5427 | &nbsp;&nbsp;&nbsp;&nbsp;[Exportera listor till webben](https://melin.nu/meos/sv/show.php?base=5400&id=5427) | `features/05-hantera-meos/exportera-listor-till-webben.feature` |
+| [x] | 5432 | &nbsp;&nbsp;[Publicera resultat på Internet](https://melin.nu/meos/sv/show.php?base=5400&id=5432) | `features/05-hantera-meos/publicera-resultat-pa-internet.feature` |
+| [x] | 5433 | &nbsp;&nbsp;[Fjärrinmatning  och radiotider från Internet](https://melin.nu/meos/sv/show.php?base=5400&id=5433) | `features/05-hantera-meos/fjarrinmatning-och-radiotider-fran-internet.feature` |
+| [x] | 5436 | &nbsp;&nbsp;[MeOS informationsserver](https://melin.nu/meos/sv/show.php?base=5400&id=5436) | `features/05-hantera-meos/meos-informationsserver.feature` |
+| [x] | 5437 | &nbsp;&nbsp;[Direktanmälan via wifi](https://melin.nu/meos/sv/show.php?base=5400&id=5437) | `features/05-hantera-meos/direktanmalan-via-wifi.feature` |
+| [x] | 5435 | &nbsp;&nbsp;[Lokala inställningar](https://melin.nu/meos/sv/show.php?base=5400&id=5435) | `features/05-hantera-meos/lokala-installningar.feature` |
+| [x] | 5440 | &nbsp;&nbsp;[Testa MeOS inför tävling](https://melin.nu/meos/sv/show.php?base=5400&id=5440) | `features/05-hantera-meos/testa-meos-infor-tavling.feature` |
 
 ## Storre arrangemang
 
