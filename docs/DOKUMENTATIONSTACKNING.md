@@ -155,14 +155,14 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [~] | 5472 | [Lag, stafetter, gafflingar och flera lopp](https://melin.nu/meos/sv/show.php?base=5400&id=5472) | `09-lag-stafetter-gafflingar-och-flera-lopp/lag-och-gaffling-funktioner.feature` |
-| [ ] | 5474 | &nbsp;&nbsp;[Bantilldelning](https://melin.nu/meos/sv/show.php?base=5400&id=5474) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/bantilldelning.feature` |
-| [ ] | 5475 | &nbsp;&nbsp;[Sträckors egenskaper](https://melin.nu/meos/sv/show.php?base=5400&id=5475) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/strackors-egenskaper.feature` |
-| [ ] | 5476 | &nbsp;&nbsp;[Hantera lag](https://melin.nu/meos/sv/show.php?base=5400&id=5476) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/hantera-lag.feature` |
-| [ ] | 5477 | &nbsp;&nbsp;&nbsp;&nbsp;[Importera laguppställningar](https://melin.nu/meos/sv/show.php?base=5400&id=5477) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/importera-laguppstallningar.feature` |
-| [ ] | 5478 | &nbsp;&nbsp;&nbsp;&nbsp;[Skapa anonyma lagmedlemmar](https://melin.nu/meos/sv/show.php?base=5400&id=5478) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/skapa-anonyma-lagmedlemmar.feature` |
-| [ ] | 5479 | &nbsp;&nbsp;&nbsp;&nbsp;[Direktanmälan](https://melin.nu/meos/sv/show.php?base=5400&id=5479) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/direktanmalan.feature` |
-| [ ] | 5473 | &nbsp;&nbsp;[Omstart](https://melin.nu/meos/sv/show.php?base=5400&id=5473) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/omstart.feature` |
+| [x] | 5472 | [Lag, stafetter, gafflingar och flera lopp](https://melin.nu/meos/sv/show.php?base=5400&id=5472) | `09-lag-stafetter-gafflingar-och-flera-lopp/lag-och-gaffling-funktioner.feature` |
+| [x] | 5474 | &nbsp;&nbsp;[Bantilldelning](https://melin.nu/meos/sv/show.php?base=5400&id=5474) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/bantilldelning.feature` |
+| [x] | 5475 | &nbsp;&nbsp;[Sträckors egenskaper](https://melin.nu/meos/sv/show.php?base=5400&id=5475) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/strackors-egenskaper.feature` |
+| [x] | 5476 | &nbsp;&nbsp;[Hantera lag](https://melin.nu/meos/sv/show.php?base=5400&id=5476) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/hantera-lag.feature` |
+| [x] | 5477 | &nbsp;&nbsp;&nbsp;&nbsp;[Importera laguppställningar](https://melin.nu/meos/sv/show.php?base=5400&id=5477) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/importera-laguppstallningar.feature` |
+| [x] | 5478 | &nbsp;&nbsp;&nbsp;&nbsp;[Skapa anonyma lagmedlemmar](https://melin.nu/meos/sv/show.php?base=5400&id=5478) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/skapa-anonyma-lagmedlemmar.feature` |
+| [x] | 5479 | &nbsp;&nbsp;&nbsp;&nbsp;[Direktanmälan](https://melin.nu/meos/sv/show.php?base=5400&id=5479) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/direktanmalan.feature` |
+| [x] | 5473 | &nbsp;&nbsp;[Omstart](https://melin.nu/meos/sv/show.php?base=5400&id=5473) | `features/09-lag-stafetter-gafflingar-och-flera-lopp/omstart.feature` |
 
 ## Kval och final knockout sprint
 
