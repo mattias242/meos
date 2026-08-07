@@ -131,25 +131,25 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5484 | [Hantera flera etapper](https://melin.nu/meos/sv/show.php?base=5400&id=5484) | `features/07-hantera-flera-etapper/hantera-flera-etapper.feature` |
-| [ ] | 5486 | &nbsp;&nbsp;[Förberelser](https://melin.nu/meos/sv/show.php?base=5400&id=5486) | `features/07-hantera-flera-etapper/forberelser.feature` |
-| [ ] | 5487 | &nbsp;&nbsp;[Genomföra etappen](https://melin.nu/meos/sv/show.php?base=5400&id=5487) | `features/07-hantera-flera-etapper/genomfora-etappen.feature` |
-| [ ] | 5488 | &nbsp;&nbsp;[Speciallottning och jaktstart](https://melin.nu/meos/sv/show.php?base=5400&id=5488) | `features/07-hantera-flera-etapper/speciallottning-och-jaktstart.feature` |
-| [ ] | 5485 | &nbsp;&nbsp;[Resultat](https://melin.nu/meos/sv/show.php?base=5400&id=5485) | `features/07-hantera-flera-etapper/resultat.feature` |
+| [x] | 5484 | [Hantera flera etapper](https://melin.nu/meos/sv/show.php?base=5400&id=5484) | `features/07-hantera-flera-etapper/hantera-flera-etapper.feature` |
+| [x] | 5486 | &nbsp;&nbsp;[Förberelser](https://melin.nu/meos/sv/show.php?base=5400&id=5486) | `features/07-hantera-flera-etapper/forberelser.feature` |
+| [x] | 5487 | &nbsp;&nbsp;[Genomföra etappen](https://melin.nu/meos/sv/show.php?base=5400&id=5487) | `features/07-hantera-flera-etapper/genomfora-etappen.feature` |
+| [x] | 5488 | &nbsp;&nbsp;[Speciallottning och jaktstart](https://melin.nu/meos/sv/show.php?base=5400&id=5488) | `features/07-hantera-flera-etapper/speciallottning-och-jaktstart.feature` |
+| [x] | 5485 | &nbsp;&nbsp;[Resultat](https://melin.nu/meos/sv/show.php?base=5400&id=5485) | `features/07-hantera-flera-etapper/resultat.feature` |
 
 ## Speakerstod
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5463 | [Speakerstöd](https://melin.nu/meos/sv/show.php?base=5400&id=5463) | `features/08-speakerstod/speakerstod.feature` |
-| [ ] | 5467 | &nbsp;&nbsp;[Händelsevyn](https://melin.nu/meos/sv/show.php?base=5400&id=5467) | `features/08-speakerstod/handelsevyn.feature` |
-| [ ] | 5468 | &nbsp;&nbsp;[Klassvyn](https://melin.nu/meos/sv/show.php?base=5400&id=5468) | `features/08-speakerstod/klassvyn.feature` |
-| [ ] | 5464 | &nbsp;&nbsp;[Inmatning av passertider](https://melin.nu/meos/sv/show.php?base=5400&id=5464) | `features/08-speakerstod/inmatning-av-passertider.feature` |
-| [ ] | 5465 | &nbsp;&nbsp;[Elektroniska passertider](https://melin.nu/meos/sv/show.php?base=5400&id=5465) | `features/08-speakerstod/elektroniska-passertider.feature` |
-| [ ] | 5466 | &nbsp;&nbsp;[Redigera passertider](https://melin.nu/meos/sv/show.php?base=5400&id=5466) | `features/08-speakerstod/redigera-passertider.feature` |
-| [ ] | 5469 | &nbsp;&nbsp;[Prioritera bevakning av vissa deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5469) | `features/08-speakerstod/prioritera-bevakning-av-vissa-deltagare.feature` |
-| [ ] | 5471 | &nbsp;&nbsp;[Rapportläge](https://melin.nu/meos/sv/show.php?base=5400&id=5471) | `features/08-speakerstod/rapportlage.feature` |
-| [ ] | 5470 | &nbsp;&nbsp;[Liveresultat – stoppur](https://melin.nu/meos/sv/show.php?base=5400&id=5470) | `features/08-speakerstod/liveresultat-stoppur.feature` |
+| [x] | 5463 | [Speakerstöd](https://melin.nu/meos/sv/show.php?base=5400&id=5463) | `features/08-speakerstod/speakerstod.feature` |
+| [x] | 5467 | &nbsp;&nbsp;[Händelsevyn](https://melin.nu/meos/sv/show.php?base=5400&id=5467) | `features/08-speakerstod/handelsevyn.feature` |
+| [x] | 5468 | &nbsp;&nbsp;[Klassvyn](https://melin.nu/meos/sv/show.php?base=5400&id=5468) | `features/08-speakerstod/klassvyn.feature` |
+| [x] | 5464 | &nbsp;&nbsp;[Inmatning av passertider](https://melin.nu/meos/sv/show.php?base=5400&id=5464) | `features/08-speakerstod/inmatning-av-passertider.feature` |
+| [x] | 5465 | &nbsp;&nbsp;[Elektroniska passertider](https://melin.nu/meos/sv/show.php?base=5400&id=5465) | `features/08-speakerstod/elektroniska-passertider.feature` |
+| [x] | 5466 | &nbsp;&nbsp;[Redigera passertider](https://melin.nu/meos/sv/show.php?base=5400&id=5466) | `features/08-speakerstod/redigera-passertider.feature` |
+| [x] | 5469 | &nbsp;&nbsp;[Prioritera bevakning av vissa deltagare](https://melin.nu/meos/sv/show.php?base=5400&id=5469) | `features/08-speakerstod/prioritera-bevakning-av-vissa-deltagare.feature` |
+| [x] | 5471 | &nbsp;&nbsp;[Rapportläge](https://melin.nu/meos/sv/show.php?base=5400&id=5471) | `features/08-speakerstod/rapportlage.feature` |
+| [x] | 5470 | &nbsp;&nbsp;[Liveresultat – stoppur](https://melin.nu/meos/sv/show.php?base=5400&id=5470) | `features/08-speakerstod/liveresultat-stoppur.feature` |
 
 ## Lag stafetter gafflingar och flera lopp
 
