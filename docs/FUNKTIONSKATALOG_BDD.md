@@ -15,16 +15,17 @@ funktionsmoduler som slås på/av per tävling under Tävling → MeOS funktione
 > Kolumnen **Namn i MeOS** är den svenska etiketten som visas för användaren;
 > `Identifierare` är enum-värdet i `MeOSFeatures::Feature`.
 
-Scenarierna finns som körbar dokumentation i `features/funktioner/`:
+Scenarierna finns som körbar dokumentation i `features/` (se
+[DOKUMENTATIONSTACKNING.md](DOKUMENTATIONSTACKNING.md) för hela strukturen):
 
 | Fil | Innehåll |
 |---|---|
-| [funktionsval.feature](../features/funktioner/funktionsval.feature) | Själva funktionsmekanismen: beroenden, standardval, guidens profiler, serialisering |
-| [allmant.feature](../features/funktioner/allmant.feature) | Gruppen **Allmänt** |
-| [meos-funktioner.feature](../features/funktioner/meos-funktioner.feature) | Gruppen **MeOS-funktioner** |
-| [lag-och-gaffling.feature](../features/funktioner/lag-och-gaffling.feature) | Gruppen **Lag och gaffling** |
-| [rogaining.feature](../features/funktioner/rogaining.feature) | Gruppen **Rogaining** |
-| [tidtagning.feature](../features/funktioner/tidtagning.feature) | Gruppen **Tidtagning** |
+| [funktionsval.feature](../features/05-hantera-meos/meos-funktioner/funktionsval.feature) | Själva funktionsmekanismen: beroenden, standardval, guidens profiler, serialisering |
+| [allmant.feature](../features/05-hantera-meos/meos-funktioner/allmant.feature) | Gruppen **Allmänt** |
+| [meos-funktioner.feature](../features/05-hantera-meos/meos-funktioner/meos-funktioner.feature) | Gruppen **MeOS-funktioner** |
+| [lag-och-gaffling-funktioner.feature](../features/09-lag-stafetter-gafflingar-och-flera-lopp/lag-och-gaffling-funktioner.feature) | Gruppen **Lag och gaffling** |
+| [rogaining-funktioner.feature](../features/11-rogaining/rogaining-funktioner.feature) | Gruppen **Rogaining** |
+| [tidtagning-utan-banor-och-kontroller.feature](../features/03-tidtagning-utan-banor-och-kontroller/tidtagning-utan-banor-och-kontroller.feature) | Gruppen **Tidtagning** |
 
 ## Funktionsöversikt
 

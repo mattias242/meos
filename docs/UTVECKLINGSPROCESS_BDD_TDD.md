@@ -18,12 +18,19 @@ dokumentationen av vad systemet ska göra — inte en efterhandskonstruktion.
 
 ```
 features/
-  <område>/<egenskap>.feature      # Gherkin-scenarier (svenska)
+  <NN-avsnitt>/<sida>.feature      # Gherkin-scenarier (svenska)
 docs/
   UTVECKLINGSPROCESS_BDD_TDD.md    # detta dokument
+  DOKUMENTATIONSTACKNING.md        # checklista: 121 dokumentationssidor -> feature-filer
+  FUNKTIONSKATALOG_BDD.md          # MeOS 19 funktionsmoduler
   TESTSTRATEGI.md                  # teststrategi + svaga områden
   TEST_TODO.md                     # prioriterad todo/målbild
 ```
+
+Katalogerna under `features/` speglar avsnittsindelningen i den officiella
+MeOS-dokumentationen på melin.nu, och varje `.feature`-fil motsvarar en
+dokumentationssida. Kopplingen sida ↔ fil, och hur långt arbetet kommit,
+följs i [DOKUMENTATIONSTACKNING.md](DOKUMENTATIONSTACKNING.md).
 
 ### 1.2 Gherkin på svenska
 
@@ -63,7 +70,7 @@ en kommentar som pekar på .feature-filen:
 
 ```cpp
 // Scenario: "Bricka med korrekta stämplingar ger godkänt resultat"
-// features/avlasning/bricka.feature
+// features/02-mindre-arrangemang/brickavlasning.feature
 ```
 
 Så länge testet är namngivet efter scenariot går det alltid att spåra

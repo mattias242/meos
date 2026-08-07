@@ -25,7 +25,7 @@ referera punkten i commit/PR.
 - [ ] **A5. Kval/final-scheman** (`qualification_final.cpp`):
       `getPrelFinalFromPlace` inkl. delade placeringar, `computeFinals`,
       `encode`→`init`-rundresa, `importXML`/`exportXML`.
-      Scenarier: `features/kvalfinal/kvalschema.feature`.
+      Scenarier: `features/10-kval-och-final-knockout-sprint/redigera-kval-final-scheman.feature`.
 - [ ] **A6. RunnerDB**: rundresetester för binärformat V1→V3-migrering,
       bitpackade födelsedatum, namn-/id-/brickhashar, `canonizeSplitName`.
 - [ ] **A7. Startlottning** (`DrawOptimAlgo`, seedad RNG):
@@ -56,11 +56,11 @@ referera punkten i commit/PR.
 ## Fas D — integrationstester av kärnlogik
 
 - [ ] **D1. Brickutvärdering** (`oRunner::evaluateCard`):
-      scenarier i `features/avlasning/brickavlasning.feature` →
+      scenarier i `features/02-mindre-arrangemang/brickavlasning.feature` →
       tester för godkänd/felstämplad/extra stämplingar/okänd bricka,
       startstämpling vs tilldelad starttid, båda `doApply`-lägena.
 - [ ] **D2. Placering** (`oEvent::calculateResults`):
-      scenarier i `features/resultat/placering.feature` →
+      scenarier i `features/02-mindre-arrangemang/resultatberakning-och-placering.feature` →
       delade tider, statusordning, flerdagars input-tider, preliminära resultat.
 - [ ] **D3. Stafett** (`oTeam`): sträckstatus-propagering, parallella/
       valfria/oordnade sträckor, omstart/rep, patrull.
