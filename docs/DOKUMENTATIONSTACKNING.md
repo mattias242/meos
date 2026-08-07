@@ -105,27 +105,27 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 
 | | Sida | Dokumentation | Feature-fil |
 |---|---|---|---|
-| [ ] | 5442 | [Större arrangemang](https://melin.nu/meos/sv/show.php?base=5400&id=5442) | `features/06-storre-arrangemang/storre-arrangemang.feature` |
-| [ ] | 5443 | &nbsp;&nbsp;[MeOS i nätverk](https://melin.nu/meos/sv/show.php?base=5400&id=5443) | `features/06-storre-arrangemang/meos-i-natverk.feature` |
-| [ ] | 5445 | &nbsp;&nbsp;&nbsp;&nbsp;[Installera MySQL](https://melin.nu/meos/sv/show.php?base=5400&id=5445) | `features/06-storre-arrangemang/installera-mysql.feature` |
-| [ ] | 5444 | &nbsp;&nbsp;&nbsp;&nbsp;[Server- och nätverksproblem](https://melin.nu/meos/sv/show.php?base=5400&id=5444) | `features/06-storre-arrangemang/server-och-natverksproblem.feature` |
-| [ ] | 5447 | &nbsp;&nbsp;[Mer om klasser](https://melin.nu/meos/sv/show.php?base=5400&id=5447) | `features/06-storre-arrangemang/mer-om-klasser.feature` |
-| [ ] | 5448 | &nbsp;&nbsp;&nbsp;&nbsp;[Dela klasser](https://melin.nu/meos/sv/show.php?base=5400&id=5448) | `features/06-storre-arrangemang/dela-klasser.feature` |
-| [ ] | 5450 | &nbsp;&nbsp;[Avancerad lottning](https://melin.nu/meos/sv/show.php?base=5400&id=5450) | `features/06-storre-arrangemang/avancerad-lottning.feature` |
-| [ ] | 5451 | &nbsp;&nbsp;&nbsp;&nbsp;[Exportera och importera lottningsunderlag](https://melin.nu/meos/sv/show.php?base=5400&id=5451) | `features/06-storre-arrangemang/exportera-och-importera-lottningsunderlag.feature` |
-| [ ] | 5456 | &nbsp;&nbsp;[Seedad lottning](https://melin.nu/meos/sv/show.php?base=5400&id=5456) | `features/06-storre-arrangemang/seedad-lottning.feature` |
-| [ ] | 5458 | &nbsp;&nbsp;[Startgrupper](https://melin.nu/meos/sv/show.php?base=5400&id=5458) | `features/06-storre-arrangemang/startgrupper.feature` |
-| [ ] | 5459 | &nbsp;&nbsp;&nbsp;&nbsp;[Importera startgrupper](https://melin.nu/meos/sv/show.php?base=5400&id=5459) | `features/06-storre-arrangemang/importera-startgrupper.feature` |
-| [ ] | 5460 | &nbsp;&nbsp;&nbsp;&nbsp;[Lotta med startgrupper](https://melin.nu/meos/sv/show.php?base=5400&id=5460) | `features/06-storre-arrangemang/lotta-med-startgrupper.feature` |
-| [ ] | 5449 | &nbsp;&nbsp;[Klubbar](https://melin.nu/meos/sv/show.php?base=5400&id=5449) | `features/06-storre-arrangemang/klubbar.feature` |
-| [ ] | 5452 | &nbsp;&nbsp;[Ekonomi och fakturor](https://melin.nu/meos/sv/show.php?base=5400&id=5452) | `features/06-storre-arrangemang/ekonomi-och-fakturor.feature` |
-| [ ] | 5453 | &nbsp;&nbsp;&nbsp;&nbsp;[Kontant betalning](https://melin.nu/meos/sv/show.php?base=5400&id=5453) | `features/06-storre-arrangemang/kontant-betalning.feature` |
-| [ ] | 5454 | &nbsp;&nbsp;[Tävlingsinställningar](https://melin.nu/meos/sv/show.php?base=5400&id=5454) | `features/06-storre-arrangemang/tavlingsinstallningar.feature` |
-| [ ] | 5455 | &nbsp;&nbsp;[Avstämning av hyrbrickor](https://melin.nu/meos/sv/show.php?base=5400&id=5455) | `features/06-storre-arrangemang/avstamning-av-hyrbrickor.feature` |
-| [ ] | 5457 | &nbsp;&nbsp;[Fördefinierade hyrbrickor](https://melin.nu/meos/sv/show.php?base=5400&id=5457) | `features/06-storre-arrangemang/fordefinierade-hyrbrickor.feature` |
-| [ ] | 5461 | &nbsp;&nbsp;[Slå ihop tävlingar / hantera sekretariat på flera platser](https://melin.nu/meos/sv/show.php?base=5400&id=5461) | `features/06-storre-arrangemang/sla-ihop-tavlingar-hantera-sekretariat-pa-flera-platser.feature` |
-| [ ] | 5462 | &nbsp;&nbsp;[Hantera flera tävlingar i en MeOS-tävling](https://melin.nu/meos/sv/show.php?base=5400&id=5462) | `features/06-storre-arrangemang/hantera-flera-tavlingar-i-en-meos-tavling.feature` |
-| [ ] | 5446 | &nbsp;&nbsp;[Säkerhetskopior och återställning](https://melin.nu/meos/sv/show.php?base=5400&id=5446) | `features/06-storre-arrangemang/sakerhetskopior-och-aterstallning.feature` |
+| [x] | 5442 | [Större arrangemang](https://melin.nu/meos/sv/show.php?base=5400&id=5442) | `features/06-storre-arrangemang/storre-arrangemang.feature` |
+| [x] | 5443 | &nbsp;&nbsp;[MeOS i nätverk](https://melin.nu/meos/sv/show.php?base=5400&id=5443) | `features/06-storre-arrangemang/meos-i-natverk.feature` |
+| [-] | 5445 | &nbsp;&nbsp;&nbsp;&nbsp;[Installera MySQL](https://melin.nu/meos/sv/show.php?base=5400&id=5445) | — (installationsinstruktion för MySQL) |
+| [x] | 5444 | &nbsp;&nbsp;&nbsp;&nbsp;[Server- och nätverksproblem](https://melin.nu/meos/sv/show.php?base=5400&id=5444) | `features/06-storre-arrangemang/server-och-natverksproblem.feature` |
+| [x] | 5447 | &nbsp;&nbsp;[Mer om klasser](https://melin.nu/meos/sv/show.php?base=5400&id=5447) | `features/06-storre-arrangemang/mer-om-klasser.feature` |
+| [x] | 5448 | &nbsp;&nbsp;&nbsp;&nbsp;[Dela klasser](https://melin.nu/meos/sv/show.php?base=5400&id=5448) | `features/06-storre-arrangemang/dela-klasser.feature` |
+| [x] | 5450 | &nbsp;&nbsp;[Avancerad lottning](https://melin.nu/meos/sv/show.php?base=5400&id=5450) | `features/06-storre-arrangemang/avancerad-lottning.feature` |
+| [x] | 5451 | &nbsp;&nbsp;&nbsp;&nbsp;[Exportera och importera lottningsunderlag](https://melin.nu/meos/sv/show.php?base=5400&id=5451) | `features/06-storre-arrangemang/exportera-och-importera-lottningsunderlag.feature` |
+| [x] | 5456 | &nbsp;&nbsp;[Seedad lottning](https://melin.nu/meos/sv/show.php?base=5400&id=5456) | `features/06-storre-arrangemang/seedad-lottning.feature` |
+| [x] | 5458 | &nbsp;&nbsp;[Startgrupper](https://melin.nu/meos/sv/show.php?base=5400&id=5458) | `features/06-storre-arrangemang/startgrupper.feature` |
+| [x] | 5459 | &nbsp;&nbsp;&nbsp;&nbsp;[Importera startgrupper](https://melin.nu/meos/sv/show.php?base=5400&id=5459) | `features/06-storre-arrangemang/importera-startgrupper.feature` |
+| [x] | 5460 | &nbsp;&nbsp;&nbsp;&nbsp;[Lotta med startgrupper](https://melin.nu/meos/sv/show.php?base=5400&id=5460) | `features/06-storre-arrangemang/lotta-med-startgrupper.feature` |
+| [x] | 5449 | &nbsp;&nbsp;[Klubbar](https://melin.nu/meos/sv/show.php?base=5400&id=5449) | `features/06-storre-arrangemang/klubbar.feature` |
+| [x] | 5452 | &nbsp;&nbsp;[Ekonomi och fakturor](https://melin.nu/meos/sv/show.php?base=5400&id=5452) | `features/06-storre-arrangemang/ekonomi-och-fakturor.feature` |
+| [x] | 5453 | &nbsp;&nbsp;&nbsp;&nbsp;[Kontant betalning](https://melin.nu/meos/sv/show.php?base=5400&id=5453) | `features/06-storre-arrangemang/kontant-betalning.feature` |
+| [x] | 5454 | &nbsp;&nbsp;[Tävlingsinställningar](https://melin.nu/meos/sv/show.php?base=5400&id=5454) | `features/06-storre-arrangemang/tavlingsinstallningar.feature` |
+| [x] | 5455 | &nbsp;&nbsp;[Avstämning av hyrbrickor](https://melin.nu/meos/sv/show.php?base=5400&id=5455) | `features/06-storre-arrangemang/avstamning-av-hyrbrickor.feature` |
+| [x] | 5457 | &nbsp;&nbsp;[Fördefinierade hyrbrickor](https://melin.nu/meos/sv/show.php?base=5400&id=5457) | `features/06-storre-arrangemang/fordefinierade-hyrbrickor.feature` |
+| [x] | 5461 | &nbsp;&nbsp;[Slå ihop tävlingar / hantera sekretariat på flera platser](https://melin.nu/meos/sv/show.php?base=5400&id=5461) | `features/06-storre-arrangemang/sla-ihop-tavlingar-hantera-sekretariat-pa-flera-platser.feature` |
+| [x] | 5462 | &nbsp;&nbsp;[Hantera flera tävlingar i en MeOS-tävling](https://melin.nu/meos/sv/show.php?base=5400&id=5462) | `features/06-storre-arrangemang/hantera-flera-tavlingar-i-en-meos-tavling.feature` |
+| [x] | 5446 | &nbsp;&nbsp;[Säkerhetskopior och återställning](https://melin.nu/meos/sv/show.php?base=5400&id=5446) | `features/06-storre-arrangemang/sakerhetskopior-och-aterstallning.feature` |
 
 ## Hantera flera etapper
 
@@ -208,4 +208,4 @@ dokumentationssida utan beskriver kärnlogik härledd ur koden:
 | [ ] | 5480 | &nbsp;&nbsp;[Appendix I: Eventorkoppling](https://melin.nu/meos/sv/show.php?base=5400&id=5480) | `features/14-appendix/appendix-i-eventorkoppling.feature` |
 | [ ] | 5481 | &nbsp;&nbsp;[Appendix II: Tabelläge](https://melin.nu/meos/sv/show.php?base=5400&id=5481) | `features/14-appendix/appendix-ii-tabellage.feature` |
 | [ ] | 5502 | &nbsp;&nbsp;[Appendix III: Mästerskap med kval och final](https://melin.nu/meos/sv/show.php?base=5400&id=5502) | `features/14-appendix/appendix-iii-masterskap-med-kval-och-final.feature` |
-| [ ] | 5496 | &nbsp;&nbsp;[Appendix IV: MeOS på Mac och Linux](https://melin.nu/meos/sv/show.php?base=5400&id=5496) | `features/14-appendix/appendix-iv-meos-pa-mac-och-linux.feature` |
+| [-] | 5496 | &nbsp;&nbsp;[Appendix IV: MeOS på Mac och Linux](https://melin.nu/meos/sv/show.php?base=5400&id=5496) | — (miljöinstruktion: MeOS under Wine) |
